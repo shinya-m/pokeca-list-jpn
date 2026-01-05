@@ -1,0 +1,1 @@
+# pokeca-list-jpn
