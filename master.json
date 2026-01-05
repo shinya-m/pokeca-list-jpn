@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "series": [
+        {
+            "id": "M",
+            "name": "MEGAシリーズ",
+            "displayOrder": 1,
+            "startDate": "2025-08"
+        },
+        {
+            "id": "SV",
+            "name": "スカーレット&バイオレットシリーズ",
+            "displayOrder": 2,
+            "startDate": "2023-01"
+        },
+        {
+            "id": "S",
+            "name": "ソード&シールドシリーズ",
+            "displayOrder": 3,
+            "startDate": "2019-11"
+        }
+    ],
+    "packs": [
+        {
+            "id": "M1S",
+            "seriesId": "M",
+            "name": "メガシンフォニア",
+            "updatedAt": "2025-08-01",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M1S.json"
+        }
+    ]
+}
