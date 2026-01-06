@@ -31,6 +31,7 @@
             "id": "M1S",
             "seriesId": "M",
             "name": "メガシンフォニア",
+            "totalCards": 92,
             "updatedAt": "2025-08-01",
             "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/M1S.jpg",
             "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M1S.json"
@@ -39,6 +40,7 @@
             "id": "M1L",
             "seriesId": "M",
             "name": "メガブレイブ",
+            "totalCards": 92,
             "updatedAt": "2025-08-01",
             "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/M1L.jpg",
             "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M1L.json"
