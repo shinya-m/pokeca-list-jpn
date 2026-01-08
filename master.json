@@ -28,6 +28,33 @@
     ],
     "packs": [
         {
+            "id": "SV10",
+            "seriesId": "SV",
+            "name": "ロケット団の栄光",
+            "totalCards": 132,
+            "updatedAt": "2025-04-18",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/SV10.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV10.json"
+        },
+        {
+            "id": "SV11W",
+            "seriesId": "SV",
+            "name": "ホワイトフレア",
+            "totalCards": 174,
+            "updatedAt": "2025-06-06",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/SV11W.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV11W.json"
+        },
+        {
+            "id": "SV11B",
+            "seriesId": "SV",
+            "name": "ブラックボルト",
+            "totalCards": 174,
+            "updatedAt": "2025-06-06",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/SV11B.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV11B.json"
+        },
+        {
             "id": "M1S",
             "seriesId": "M",
             "name": "メガシンフォニア",
