@@ -28,6 +28,276 @@
     ],
     "packs": [
         {
+            "id": "S1W",
+            "seriesId": "S",
+            "name": "ソード",
+            "totalCards": 60,
+            "updatedAt": "2019-12-06",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2019/images/s1w.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S1W.json"
+        },
+        {
+            "id": "S1H",
+            "seriesId": "S",
+            "name": "シールド",
+            "totalCards": 60,
+            "updatedAt": "2019-12-06",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2019/images/s1h.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S1H.json"
+        },
+        {
+            "id": "S1a",
+            "seriesId": "S",
+            "name": "VMAXライジング",
+            "totalCards": 70,
+            "updatedAt": "2020-02-07",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2020/images/s1a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S1a.json"
+        },
+        {
+            "id": "S2",
+            "seriesId": "S",
+            "name": "反逆クラッシュ",
+            "totalCards": 96,
+            "updatedAt": "2020-03-06",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2020/images/s2.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S2.json"
+        },
+        {
+            "id": "S2a",
+            "seriesId": "S",
+            "name": "爆炎ウォーカー",
+            "totalCards": 70,
+            "updatedAt": "2020-04-24",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2020/images/s2a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S2a.json"
+        },
+        {
+            "id": "S3",
+            "seriesId": "S",
+            "name": "ムゲンゾーン",
+            "totalCards": 100,
+            "updatedAt": "2020-06-05",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2020/images/s3.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S3.json"
+        },
+        {
+            "id": "S3a",
+            "seriesId": "S",
+            "name": "伝説の鼓動",
+            "totalCards": 76,
+            "updatedAt": "2020-07-10",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2020/images/s3a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S3a.json"
+        },
+        {
+            "id": "S4",
+            "seriesId": "S",
+            "name": "仰天のボルテッカー",
+            "totalCards": 100,
+            "updatedAt": "2020-09-18",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2020/images/s4.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S4.json"
+        },
+        {
+            "id": "S4a",
+            "seriesId": "S",
+            "name": "シャイニースターV",
+            "totalCards": 190,
+            "updatedAt": "2020-11-20",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2020/images/s4a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S4a.json"
+        },
+        {
+            "id": "S5I",
+            "seriesId": "S",
+            "name": "一撃マスター",
+            "totalCards": 70,
+            "updatedAt": "2021-01-22",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s5i.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S5I.json"
+        },
+        {
+            "id": "S5R",
+            "seriesId": "S",
+            "name": "連撃マスター",
+            "totalCards": 70,
+            "updatedAt": "2021-01-22",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s5r.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S5R.json"
+        },
+        {
+            "id": "S5a",
+            "seriesId": "S",
+            "name": "双璧のファイター",
+            "totalCards": 70,
+            "updatedAt": "2021-03-19",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s5a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S5a.json"
+        },
+        {
+            "id": "S6H",
+            "seriesId": "S",
+            "name": "白銀のランス",
+            "totalCards": 70,
+            "updatedAt": "2021-04-23",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s6h.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S6H.json"
+        },
+        {
+            "id": "S6K",
+            "seriesId": "S",
+            "name": "漆黒のガイスト",
+            "totalCards": 70,
+            "updatedAt": "2021-04-23",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s6k.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S6K.json"
+        },
+        {
+            "id": "S6a",
+            "seriesId": "S",
+            "name": "イーブイヒーローズ",
+            "totalCards": 69,
+            "updatedAt": "2021-05-28",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s6a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S6a.json"
+        },
+        {
+            "id": "S7D",
+            "seriesId": "S",
+            "name": "摩天パーフェクト",
+            "totalCards": 67,
+            "updatedAt": "2021-07-09",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s7d.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S7D.json"
+        },
+        {
+            "id": "S7R",
+            "seriesId": "S",
+            "name": "蒼空ストリーム",
+            "totalCards": 67,
+            "updatedAt": "2021-07-09",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s7r.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S7R.json"
+        },
+        {
+            "id": "S8",
+            "seriesId": "S",
+            "name": "フュージョンアーツ",
+            "totalCards": 100,
+            "updatedAt": "2021-09-24",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s8.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S8.json"
+        },
+        {
+            "id": "S8a",
+            "seriesId": "S",
+            "name": "25th ANNIVERSARY COLLECTION",
+            "totalCards": 28,
+            "updatedAt": "2021-10-22",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s8a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S8a.json"
+        },
+        {
+            "id": "S8b",
+            "seriesId": "S",
+            "name": "VMAXクライマックス",
+            "totalCards": 184,
+            "updatedAt": "2021-12-03",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2021/images/s8b.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S8b.json"
+        },
+        {
+            "id": "S9",
+            "seriesId": "S",
+            "name": "スターバース",
+            "totalCards": 100,
+            "updatedAt": "2022-01-14",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s9.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S9.json"
+        },
+        {
+            "id": "S9a",
+            "seriesId": "S",
+            "name": "バトルリージョン",
+            "totalCards": 67,
+            "updatedAt": "2022-02-25",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s9a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S9a.json"
+        },
+        {
+            "id": "S10D",
+            "seriesId": "S",
+            "name": "タイムゲイザー",
+            "totalCards": 67,
+            "updatedAt": "2022-04-08",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s10d.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S10D.json"
+        },
+        {
+            "id": "S10P",
+            "seriesId": "S",
+            "name": "スペースジャグラー",
+            "totalCards": 67,
+            "updatedAt": "2022-04-08",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s10p.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S10P.json"
+        },
+        {
+            "id": "S10a",
+            "seriesId": "S",
+            "name": "ダークファンタズマ",
+            "totalCards": 71,
+            "updatedAt": "2022-05-13",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s10a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S10a.json"
+        },
+        {
+            "id": "S10b",
+            "seriesId": "S",
+            "name": "Pokémon GO",
+            "totalCards": 71,
+            "updatedAt": "2022-06-17",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s10b.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S10b.json"
+        },
+        {
+            "id": "S11",
+            "seriesId": "S",
+            "name": "ロストアビス",
+            "totalCards": 100,
+            "updatedAt": "2022-07-15",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s11.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S11.json"
+        },
+        {
+            "id": "S11a",
+            "seriesId": "S",
+            "name": "白熱のアルカナ",
+            "totalCards": 68,
+            "updatedAt": "2022-09-02",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s11a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S11a.json"
+        },
+        {
+            "id": "S12",
+            "seriesId": "S",
+            "name": "パラダイムトリガー",
+            "totalCards": 98,
+            "updatedAt": "2022-10-21",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s12.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S12.json"
+        },
+        {
+            "id": "S12a",
+            "seriesId": "S",
+            "name": "VSTARユニバース",
+            "totalCards": 172,
+            "updatedAt": "2022-12-02",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2022/images/s12a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/S/S12a.json"
+        },
+        {
             "id": "SV1S",
             "seriesId": "SV",
             "name": "スカーレットex",
