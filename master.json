@@ -28,6 +28,204 @@
     ],
     "packs": [
         {
+            "id": "SV1S",
+            "seriesId": "SV",
+            "name": "スカーレットex",
+            "totalCards": 78,
+            "updatedAt": "2023-01-20",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv1s.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV1S.json"
+        },
+        {
+            "id": "SV1V",
+            "seriesId": "SV",
+            "name": "バイオレットex",
+            "totalCards": 78,
+            "updatedAt": "2023-01-20",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv1v.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV1V.json"
+        },
+        {
+            "id": "SV1a",
+            "seriesId": "SV",
+            "name": "トリプレットビート",
+            "totalCards": 73,
+            "updatedAt": "2023-03-10",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv1a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV1a.json"
+        },
+        {
+            "id": "SV2P",
+            "seriesId": "SV",
+            "name": "スノーハザード",
+            "totalCards": 71,
+            "updatedAt": "2023-04-14",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv2p.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV2P.json"
+        },
+        {
+            "id": "SV2D",
+            "seriesId": "SV",
+            "name": "クレイバースト",
+            "totalCards": 71,
+            "updatedAt": "2023-04-14",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv2d.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV2D.json"
+        },
+        {
+            "id": "SV2a",
+            "seriesId": "SV",
+            "name": "ポケモンカード151",
+            "totalCards": 165,
+            "updatedAt": "2023-06-16",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv2a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV2a.json"
+        },
+        {
+            "id": "SV3",
+            "seriesId": "SV",
+            "name": "黒炎の支配者",
+            "totalCards": 108,
+            "updatedAt": "2023-07-28",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv3.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV3.json"
+        },
+        {
+            "id": "SV3a",
+            "seriesId": "SV",
+            "name": "レイジングサーフ",
+            "totalCards": 62,
+            "updatedAt": "2023-09-22",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv3a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV3a.json"
+        },
+        {
+            "id": "SV4K",
+            "seriesId": "SV",
+            "name": "古代の咆哮",
+            "totalCards": 66,
+            "updatedAt": "2023-10-27",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv4k.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV4K.json"
+        },
+        {
+            "id": "SV4M",
+            "seriesId": "SV",
+            "name": "未来の一閃",
+            "totalCards": 66,
+            "updatedAt": "2023-10-27",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv4m.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV4M.json"
+        },
+        {
+            "id": "SV4a",
+            "seriesId": "SV",
+            "name": "シャイニートレジャーex",
+            "totalCards": 190,
+            "updatedAt": "2023-12-01",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2023/images/sv4a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV4a.json"
+        },
+        {
+            "id": "SV5K",
+            "seriesId": "SV",
+            "name": "ワイルドフォース",
+            "totalCards": 71,
+            "updatedAt": "2024-01-26",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv5k.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV5K.json"
+        },
+        {
+            "id": "SV5M",
+            "seriesId": "SV",
+            "name": "サイバージャッジ",
+            "totalCards": 71,
+            "updatedAt": "2024-01-26",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv5m.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV5M.json"
+        },
+        {
+            "id": "SV5a",
+            "seriesId": "SV",
+            "name": "クリムゾンヘイズ",
+            "totalCards": 66,
+            "updatedAt": "2024-03-22",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv5a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV5a.json"
+        },
+        {
+            "id": "SV6",
+            "seriesId": "SV",
+            "name": "変幻の仮面",
+            "totalCards": 101,
+            "updatedAt": "2024-04-26",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv6.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV6.json"
+        },
+        {
+            "id": "SV6a",
+            "seriesId": "SV",
+            "name": "ナイトワンダラー",
+            "totalCards": 64,
+            "updatedAt": "2024-06-07",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv6a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV6a.json"
+        },
+        {
+            "id": "SV7",
+            "seriesId": "SV",
+            "name": "ステラミラクル",
+            "totalCards": 102,
+            "updatedAt": "2024-07-19",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv7.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV7.json"
+        },
+        {
+            "id": "SV7a",
+            "seriesId": "SV",
+            "name": "楽園ドラゴーナ",
+            "totalCards": 64,
+            "updatedAt": "2024-09-13",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv7a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV7a.json"
+        },
+        {
+            "id": "SV8",
+            "seriesId": "SV",
+            "name": "超電ブレイカー",
+            "totalCards": 106,
+            "updatedAt": "2024-10-18",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv8.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV8.json"
+        },
+        {
+            "id": "SV8a",
+            "seriesId": "SV",
+            "name": "テラスタルフェスex",
+            "totalCards": 187,
+            "updatedAt": "2024-12-06",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv8a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV8a.json"
+        },
+        {
+            "id": "SV9",
+            "seriesId": "SV",
+            "name": "バトルパートナーズ",
+            "totalCards": 132,
+            "updatedAt": "2025-01-24",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/sv9.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV9.json"
+        },
+        {
+            "id": "SV9a",
+            "seriesId": "SV",
+            "name": "熱風のアリーナ",
+            "totalCards": 92,
+            "updatedAt": "2025-03-14",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/sv9a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV9a.json"
+        },
+        {
             "id": "SV10",
             "seriesId": "SV",
             "name": "ロケット団の栄光",
