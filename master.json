@@ -796,7 +796,7 @@
             "id": "SV9",
             "seriesId": "SV",
             "name": "バトルパートナーズ",
-            "totalCards": 100,
+            "totalCards": 132,
             "updatedAt": "2025-01-24",
             "coverImageUrl": "https://www.pokemon-card.com/products/2024/images/sv9.jpg",
             "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/SV/SV9.json"
@@ -863,6 +863,15 @@
             "updatedAt": "2025-09-26",
             "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/M2.jpg",
             "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M2.json"
+        },
+        {
+            "id": "M2a",
+            "seriesId": "M",
+            "name": "MEGAドリームex",
+            "totalCards": 250,
+            "updatedAt": "2025-11-28",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/m2a.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M2a.json"
         }
     ]
 }
