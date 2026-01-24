@@ -387,6 +387,13 @@
             "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8b/040207_P_PARUSUWANV.jpg"
         },
         {
+            "id": "S8b-056",
+            "number": "056/184(左上)\n057/184(右上)\n058/184(左下)\n059/184(右下)",
+            "name": "モルペコV-UNION",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8b/040208_P_MORUPEKOVUNION.jpg"
+        },
+        {
             "id": "S8b-060",
             "number": "060/184",
             "name": "ガラル フリーザーV",
@@ -1547,6 +1554,13 @@
             "name": "パルスワンV",
             "rarity": "None",
             "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8b/041056_P_PARUSUWANV.jpg"
+        },
+        {
+            "id": "S8b-226",
+            "number": "226/184\n(左上)\n227/184\n(右上)\n228/184\n(左下)\n229/184\n(右下)",
+            "name": "モルペコV-UNION",
+            "rarity": "None",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8b/041057_P_MORUPEKOVUNION.jpg"
         },
         {
             "id": "S8b-230",

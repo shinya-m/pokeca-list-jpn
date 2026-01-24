@@ -170,6 +170,13 @@
             "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040089_P_SORAWOTOBUPIKACHIXYUUVMAX.jpg"
         },
         {
+            "id": "S8a-025",
+            "number": "025/028(左上)\n026/028(右上)\n027/028(左下)\n028/028(右下)",
+            "name": "ピカチュウV-UNION",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040090_P_PIKACHIXYUUVUNION.jpg"
+        },
+        {
             "id": "S8a-",
             "number": "",
             "name": "基本草エネルギー",
