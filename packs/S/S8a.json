@@ -1,0 +1,236 @@
+{
+    "packId": "S8a",
+    "cards": [
+        {
+            "id": "S8a-001",
+            "number": "001/028",
+            "name": "ピカチュウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040066_P_PIKACHIXYUU.jpg"
+        },
+        {
+            "id": "S8a-002",
+            "number": "002/028",
+            "name": "ミュウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040067_P_MIXYUU.jpg"
+        },
+        {
+            "id": "S8a-003",
+            "number": "003/028",
+            "name": "博士の研究",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040068_T_HAKASENOKENKIXYUUOKIDOHAKASE.jpg"
+        },
+        {
+            "id": "S8a-004",
+            "number": "004/028",
+            "name": "ホウオウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040069_P_HOUOU.jpg"
+        },
+        {
+            "id": "S8a-005",
+            "number": "005/028",
+            "name": "ルギア",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040070_P_RUGIA.jpg"
+        },
+        {
+            "id": "S8a-006",
+            "number": "006/028",
+            "name": "グラードン",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040071_P_GURADON.jpg"
+        },
+        {
+            "id": "S8a-007",
+            "number": "007/028",
+            "name": "カイオーガ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040072_P_KAIOGA.jpg"
+        },
+        {
+            "id": "S8a-008",
+            "number": "008/028",
+            "name": "ディアルガ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040073_P_DEIARUGA.jpg"
+        },
+        {
+            "id": "S8a-009",
+            "number": "009/028",
+            "name": "パルキア",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040074_P_PARUKIA.jpg"
+        },
+        {
+            "id": "S8a-010",
+            "number": "010/028",
+            "name": "レシラム",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040075_P_RESHIRAMU.jpg"
+        },
+        {
+            "id": "S8a-011",
+            "number": "011/028",
+            "name": "ゼクロム",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040076_P_ZEKUROMU.jpg"
+        },
+        {
+            "id": "S8a-012",
+            "number": "012/028",
+            "name": "ゼルネアス",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040077_P_ZERUNEASU.jpg"
+        },
+        {
+            "id": "S8a-013",
+            "number": "013/028",
+            "name": "イベルタル",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040078_P_IBERUTARU.jpg"
+        },
+        {
+            "id": "S8a-014",
+            "number": "014/028",
+            "name": "コスモッグ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040079_P_KOSUMOGGU.jpg"
+        },
+        {
+            "id": "S8a-015",
+            "number": "015/028",
+            "name": "コスモウム",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040080_P_KOSUMOUMU.jpg"
+        },
+        {
+            "id": "S8a-016",
+            "number": "016/028",
+            "name": "ソルガレオ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040081_P_SORUGAREO.jpg"
+        },
+        {
+            "id": "S8a-017",
+            "number": "017/028",
+            "name": "ルナアーラ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040082_P_RUNAARA.jpg"
+        },
+        {
+            "id": "S8a-018",
+            "number": "018/028",
+            "name": "ザシアンV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040083_P_ZASHIANV.jpg"
+        },
+        {
+            "id": "S8a-019",
+            "number": "019/028",
+            "name": "ザマゼンタV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040084_P_ZAMAZENTAV.jpg"
+        },
+        {
+            "id": "S8a-020",
+            "number": "020/028",
+            "name": "ピカチュウV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040085_P_PIKACHIXYUUV.jpg"
+        },
+        {
+            "id": "S8a-021",
+            "number": "021/028",
+            "name": "なみのりピカチュウV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040086_P_NAMINORIPIKACHIXYUUV.jpg"
+        },
+        {
+            "id": "S8a-022",
+            "number": "022/028",
+            "name": "なみのりピカチュウVMAX",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040087_P_NAMINORIPIKACHIXYUUVMAX.jpg"
+        },
+        {
+            "id": "S8a-023",
+            "number": "023/028",
+            "name": "そらをとぶピカチュウV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040088_P_SORAWOTOBUPIKACHIXYUUV.jpg"
+        },
+        {
+            "id": "S8a-024",
+            "number": "024/028",
+            "name": "そらをとぶピカチュウVMAX",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040089_P_SORAWOTOBUPIKACHIXYUUVMAX.jpg"
+        },
+        {
+            "id": "S8a-",
+            "number": "",
+            "name": "基本草エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040091_E_KIHONKUSAENERUGI.jpg"
+        },
+        {
+            "id": "S8a-",
+            "number": "",
+            "name": "基本炎エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040092_E_KIHONHONOOENERUGI.jpg"
+        },
+        {
+            "id": "S8a-",
+            "number": "",
+            "name": "基本水エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040093_E_KIHONMIZUENERUGI.jpg"
+        },
+        {
+            "id": "S8a-",
+            "number": "",
+            "name": "基本雷エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040094_E_KIHONKAMINARIENERUGI.jpg"
+        },
+        {
+            "id": "S8a-",
+            "number": "",
+            "name": "基本超エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040095_E_KIHONCHIXYOUENERUGI.jpg"
+        },
+        {
+            "id": "S8a-",
+            "number": "",
+            "name": "基本闘エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040096_E_KIHONTOUENERUGI.jpg"
+        },
+        {
+            "id": "S8a-",
+            "number": "",
+            "name": "基本悪エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040097_E_KIHONAKUENERUGI.jpg"
+        },
+        {
+            "id": "S8a-",
+            "number": "",
+            "name": "基本鋼エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040098_E_KIHONHAGANEENERUGI.jpg"
+        },
+        {
+            "id": "S8a-029",
+            "number": "029/028",
+            "name": "博士の研究",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040144_T_HAKASENOKENKIXYUUOKIDOHAKASE.jpg"
+        }
+    ]
+}

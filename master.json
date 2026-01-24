@@ -872,6 +872,15 @@
             "updatedAt": "2025-11-28",
             "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/m2a.jpg",
             "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M2a.json"
+        },
+        {
+            "id": "M3",
+            "seriesId": "M",
+            "name": "ムニキスゼロ",
+            "totalCards": 117,
+            "updatedAt": "2026-01-23",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/m3.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M3.json"
         }
     ]
 }
