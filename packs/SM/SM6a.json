@@ -1,0 +1,47 @@
+{
+    "packId": "SM6a",
+    "cards": [
+        {
+            "id": "SM6a-054",
+            "number": "054/053",
+            "name": "レシラムGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6a/035707_P_RESHIRAMUGX.jpg"
+        },
+        {
+            "id": "SM6a-055",
+            "number": "055/053",
+            "name": "キングドラGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6a/035708_P_KINGUDORAGX.jpg"
+        },
+        {
+            "id": "SM6a-056",
+            "number": "056/053",
+            "name": "カイリューGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6a/035709_P_KAIRYUGX.jpg"
+        },
+        {
+            "id": "SM6a-057",
+            "number": "057/053",
+            "name": "ホワイトキュレムGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6a/035710_P_HOWAITOKYUREMUGX.jpg"
+        },
+        {
+            "id": "SM6a-058",
+            "number": "058/053",
+            "name": "カツラの一発勝負",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6a/035711_T_KATSURANOIPPATSUSHOUBU.jpg"
+        },
+        {
+            "id": "SM6a-059",
+            "number": "059/053",
+            "name": "ヒガナ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6a/035712_T_HIGANA.jpg"
+        }
+    ]
+}

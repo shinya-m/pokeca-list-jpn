@@ -2,6 +2,657 @@
     "packId": "S-P",
     "cards": [
         {
+            "id": "S-P-001",
+            "number": "001/S-P",
+            "name": "ピカチュウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037601_P_PIKACHUU.jpg"
+        },
+        {
+            "id": "S-P-002",
+            "number": "002/S-P",
+            "name": "シブヤのピカチュウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037602_P_SHIBUYANOPIKACHUU.jpg"
+        },
+        {
+            "id": "S-P-003",
+            "number": "003/S-P",
+            "name": "レックウザ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037603_P_REKKUUZA.jpg"
+        },
+        {
+            "id": "S-P-005",
+            "number": "005/S-P",
+            "name": "ホップ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037604_T_HOPPU.jpg"
+        },
+        {
+            "id": "S-P-006",
+            "number": "006/S-P",
+            "name": "ヒバニー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037605_P_HIBANI.jpg"
+        },
+        {
+            "id": "S-P-007",
+            "number": "007/S-P",
+            "name": "サルノリ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037606_P_SARUNORI.jpg"
+        },
+        {
+            "id": "S-P-008",
+            "number": "008/S-P",
+            "name": "メッソン",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037607_P_MESSON.jpg"
+        },
+        {
+            "id": "S-P-028",
+            "number": "028/S-P",
+            "name": "ニャースV",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037608_P_NYASUV.jpg"
+        },
+        {
+            "id": "S-P-029",
+            "number": "029/S-P",
+            "name": "ニャースVMAX",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037609_P_NYASUVMAX.jpg"
+        },
+        {
+            "id": "S-P-004",
+            "number": "004/S-P",
+            "name": "ウールー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037610_P_URU.jpg"
+        },
+        {
+            "id": "S-P-009",
+            "number": "009/S-P",
+            "name": "基本草エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037764_E_KIHONKUSAENERUGI.jpg"
+        },
+        {
+            "id": "S-P-010",
+            "number": "010/S-P",
+            "name": "基本炎エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037765_E_KIHONHONOOENERUGI.jpg"
+        },
+        {
+            "id": "S-P-011",
+            "number": "011/S-P",
+            "name": "基本水エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037766_E_KIHONMIZUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-012",
+            "number": "012/S-P",
+            "name": "基本雷エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037767_E_KIHONKAMINARIENERUGI.jpg"
+        },
+        {
+            "id": "S-P-013",
+            "number": "013/S-P",
+            "name": "基本超エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037768_E_KIHONCHOUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-014",
+            "number": "014/S-P",
+            "name": "基本闘エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037769_E_KIHONTOUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-015",
+            "number": "015/S-P",
+            "name": "基本悪エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037770_E_KIHONAKUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-016",
+            "number": "016/S-P",
+            "name": "基本鋼エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037771_E_KIHONKOUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-017",
+            "number": "017/S-P",
+            "name": "きずぐすり",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037772_T_KIZUGUSURI.jpg"
+        },
+        {
+            "id": "S-P-018",
+            "number": "018/S-P",
+            "name": "なんでもなおし",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037773_T_NANDEMONAOSHI.jpg"
+        },
+        {
+            "id": "S-P-019",
+            "number": "019/S-P",
+            "name": "モンスターボール",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037774_T_MONSUTABORU.jpg"
+        },
+        {
+            "id": "S-P-020",
+            "number": "020/S-P",
+            "name": "コオリッポV",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037775_P_KOORIPPOV.jpg"
+        },
+        {
+            "id": "S-P-021",
+            "number": "021/S-P",
+            "name": "ヒメンカ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037776_P_HIMENKA.jpg"
+        },
+        {
+            "id": "S-P-022",
+            "number": "022/S-P",
+            "name": "エースバーン",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037777_P_ESUBAN.jpg"
+        },
+        {
+            "id": "S-P-023",
+            "number": "023/S-P",
+            "name": "マンタイン",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037778_P_MANTAIN.jpg"
+        },
+        {
+            "id": "S-P-024",
+            "number": "024/S-P",
+            "name": "ピカチュウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037779_P_PIKACHUU.jpg"
+        },
+        {
+            "id": "S-P-025",
+            "number": "025/S-P",
+            "name": "ガラル ポニータ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037780_P_GARARUPONITA.jpg"
+        },
+        {
+            "id": "S-P-026",
+            "number": "026/S-P",
+            "name": "ヨルノズク",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037781_P_YORUNOZUKU.jpg"
+        },
+        {
+            "id": "S-P-027",
+            "number": "027/S-P",
+            "name": "ビート",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037782_T_BITO.jpg"
+        },
+        {
+            "id": "S-P-030",
+            "number": "030/S-P",
+            "name": "ジュラルドン",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037783_P_JURARUDON.jpg"
+        },
+        {
+            "id": "S-P-031",
+            "number": "031/S-P",
+            "name": "ともだちてちょう",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037791_T_TOMODACHITECHOU.jpg"
+        },
+        {
+            "id": "S-P-032",
+            "number": "032/S-P",
+            "name": "モルペコ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037792_P_MORUPEKO.jpg"
+        },
+        {
+            "id": "S-P-033",
+            "number": "033/S-P",
+            "name": "バチンウニV",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037793_P_BACHINUNIV.jpg"
+        },
+        {
+            "id": "S-P-S-P",
+            "number": "S-P",
+            "name": "勝利の証",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037794_T_SHOURINOSHOUYUUSHOU.jpg"
+        },
+        {
+            "id": "S-P-S-P",
+            "number": "S-P",
+            "name": "勝利の証",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037795_T_SHOURINOSHOUKURAI.jpg"
+        },
+        {
+            "id": "S-P-S-P",
+            "number": "S-P",
+            "name": "勝利の証",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037796_T_SHOURINOSHOUKURAI.jpg"
+        },
+        {
+            "id": "S-P-034",
+            "number": "034/S-P",
+            "name": "ヒバニー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037797_P_HIBANI.jpg"
+        },
+        {
+            "id": "S-P-035",
+            "number": "035/S-P",
+            "name": "モルペコ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037884_P_MORUPEKO.jpg"
+        },
+        {
+            "id": "S-P-036",
+            "number": "036/S-P",
+            "name": "救助隊DXのピカチュウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037989_P_KYUUJOTAIDXNOPIKACHUU.jpg"
+        },
+        {
+            "id": "S-P-037",
+            "number": "037/S-P",
+            "name": "ダイオウドウV",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037990_P_DAIOUDOUV.jpg"
+        },
+        {
+            "id": "S-P-038",
+            "number": "038/S-P",
+            "name": "ブースター",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037991_P_BUSUTA.jpg"
+        },
+        {
+            "id": "S-P-039",
+            "number": "039/S-P",
+            "name": "ルクシオ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037992_P_RUKUSHIO.jpg"
+        },
+        {
+            "id": "S-P-040",
+            "number": "040/S-P",
+            "name": "ポットデスV",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037993_P_POTTODESUV.jpg"
+        },
+        {
+            "id": "S-P-041",
+            "number": "041/S-P",
+            "name": "ミブリム",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037994_P_MIBURIMU.jpg"
+        },
+        {
+            "id": "S-P-042",
+            "number": "042/S-P",
+            "name": "タンドン",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037995_P_TANDON.jpg"
+        },
+        {
+            "id": "S-P-043",
+            "number": "043/S-P",
+            "name": "ヤブクロン",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037996_P_YABUKURON.jpg"
+        },
+        {
+            "id": "S-P-044",
+            "number": "044/S-P",
+            "name": "イーブイ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037997_P_IBUI.jpg"
+        },
+        {
+            "id": "S-P-045",
+            "number": "045/S-P",
+            "name": "逆境グローブ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037998_T_GYAKKYOUGUROBU.jpg"
+        },
+        {
+            "id": "S-P-046",
+            "number": "046/S-P",
+            "name": "ソニア",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/037999_T_SONIA.jpg"
+        },
+        {
+            "id": "S-P-047",
+            "number": "047/S-P",
+            "name": "バチンウニ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038000_P_BACHINUNI.jpg"
+        },
+        {
+            "id": "S-P-048",
+            "number": "048/S-P",
+            "name": "ストリンダーV",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038001_P_SUTORINDAV.jpg"
+        },
+        {
+            "id": "S-P-049",
+            "number": "049/S-P",
+            "name": "スピード雷エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038002_E_SUPIDOKAMINARIENERUGI.jpg"
+        },
+        {
+            "id": "S-P-050",
+            "number": "050/S-P",
+            "name": "メッソン",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038003_P_MESSON.jpg"
+        },
+        {
+            "id": "S-P-051",
+            "number": "051/S-P",
+            "name": "きずぐすり",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038004_T_KIZUGUSURI.jpg"
+        },
+        {
+            "id": "S-P-052",
+            "number": "052/S-P",
+            "name": "ふしぎなアメ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038005_T_FUSHIGINAAME.jpg"
+        },
+        {
+            "id": "S-P-053",
+            "number": "053/S-P",
+            "name": "ポケモンいれかえ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038006_T_POKEMONIREKAE.jpg"
+        },
+        {
+            "id": "S-P-054",
+            "number": "054/S-P",
+            "name": "モンスターボール",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038007_T_MONSUTABORU.jpg"
+        },
+        {
+            "id": "S-P-055",
+            "number": "055/S-P",
+            "name": "げんきのハチマキ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038008_T_GENKINOHACHIMAKI.jpg"
+        },
+        {
+            "id": "S-P-056",
+            "number": "056/S-P",
+            "name": "ビート",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038009_T_BITO.jpg"
+        },
+        {
+            "id": "S-P-057",
+            "number": "057/S-P",
+            "name": "ポケモンごっこ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038010_T_POKEMONGOKKO.jpg"
+        },
+        {
+            "id": "S-P-058",
+            "number": "058/S-P",
+            "name": "ホップ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038011_T_HOPPU.jpg"
+        },
+        {
+            "id": "S-P-085",
+            "number": "085/S-P",
+            "name": "エール団のしたっぱ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038133_T_ERUDANNOSHITAPPA.jpg"
+        },
+        {
+            "id": "S-P-086",
+            "number": "086/S-P",
+            "name": "マリィ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038134_T_MARII.jpg"
+        },
+        {
+            "id": "S-P-087",
+            "number": "087/S-P",
+            "name": "グズマ&ハラ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038135_T_GUZUMAHARA.jpg"
+        },
+        {
+            "id": "S-P-088",
+            "number": "088/S-P",
+            "name": "シロナ&カトレア",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038136_T_SHIRONAKATOREA.jpg"
+        },
+        {
+            "id": "S-P-089",
+            "number": "089/S-P",
+            "name": "マオ&スイレン",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038137_T_MAOSUIREN.jpg"
+        },
+        {
+            "id": "S-P-068",
+            "number": "068/S-P",
+            "name": "モルペコ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038138_P_MORUPEKO.jpg"
+        },
+        {
+            "id": "S-P-069",
+            "number": "069/S-P",
+            "name": "ポケモンセンターのお姉さん",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038247_T_POKEMONSENTANOONEESAN.jpg"
+        },
+        {
+            "id": "S-P-070",
+            "number": "070/S-P",
+            "name": "フクスロー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038248_P_FUKUSURO.jpg"
+        },
+        {
+            "id": "S-P-071",
+            "number": "071/S-P",
+            "name": "シャワーズ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038249_P_SHAWAZU.jpg"
+        },
+        {
+            "id": "S-P-072",
+            "number": "072/S-P",
+            "name": "ナックラー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038250_P_NAKKURA.jpg"
+        },
+        {
+            "id": "S-P-073",
+            "number": "073/S-P",
+            "name": "イトマル",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038251_P_ITOMARU.jpg"
+        },
+        {
+            "id": "S-P-074",
+            "number": "074/S-P",
+            "name": "ゾウドウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038252_P_ZOUDOU.jpg"
+        },
+        {
+            "id": "S-P-075",
+            "number": "075/S-P",
+            "name": "イーブイ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038253_P_IBUI.jpg"
+        },
+        {
+            "id": "S-P-076",
+            "number": "076/S-P",
+            "name": "ヨクバリスV",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038254_P_YOKUBARISUV.jpg"
+        },
+        {
+            "id": "S-P-077",
+            "number": "077/S-P",
+            "name": "ウカッツ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038255_T_UKATTSU.jpg"
+        },
+        {
+            "id": "S-P-078",
+            "number": "078/S-P",
+            "name": "ヤロー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038256_T_YARO.jpg"
+        },
+        {
+            "id": "S-P-079",
+            "number": "079/S-P",
+            "name": "ムゲンダイナV",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038257_P_MUGENDAINAV.jpg"
+        },
+        {
+            "id": "S-P-080",
+            "number": "080/S-P",
+            "name": "ムゲンダイナVMAX",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038258_P_MUGENDAINAVMAX.jpg"
+        },
+        {
+            "id": "S-P-081",
+            "number": "081/S-P",
+            "name": "フーパ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038259_P_FUPA.jpg"
+        },
+        {
+            "id": "S-P-082",
+            "number": "082/S-P",
+            "name": "ガラル タチフサグマ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038260_P_GARARUTACHIFUSAGUMA.jpg"
+        },
+        {
+            "id": "S-P-083",
+            "number": "083/S-P",
+            "name": "基本悪エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038261_E_KIHONAKUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-084",
+            "number": "084/S-P",
+            "name": "フォクスライ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038262_P_FOKUSURAI.jpg"
+        },
+        {
+            "id": "S-P-090",
+            "number": "090/S-P",
+            "name": "基本草エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038263_E_KIHONKUSAENERUGI.jpg"
+        },
+        {
+            "id": "S-P-091",
+            "number": "091/S-P",
+            "name": "基本炎エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038264_E_KIHONHONOOENERUGI.jpg"
+        },
+        {
+            "id": "S-P-092",
+            "number": "092/S-P",
+            "name": "基本水エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038265_E_KIHONMIZUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-093",
+            "number": "093/S-P",
+            "name": "基本雷エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038266_E_KIHONKAMINARIENERUGI.jpg"
+        },
+        {
+            "id": "S-P-094",
+            "number": "094/S-P",
+            "name": "基本超エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038267_E_KIHONCHOUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-095",
+            "number": "095/S-P",
+            "name": "基本闘エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038268_E_KIHONTOUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-096",
+            "number": "096/S-P",
+            "name": "基本悪エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038269_E_KIHONAKUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-097",
+            "number": "097/S-P",
+            "name": "基本鋼エネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038270_E_KIHONKOUENERUGI.jpg"
+        },
+        {
+            "id": "S-P-098",
+            "number": "098/S-P",
+            "name": "基本フェアリーエネルギー",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038271_E_KIHONFEARIENERUGI.jpg"
+        },
+        {
+            "id": "S-P-099",
+            "number": "099/S-P",
+            "name": "名探偵ピカチュウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S-P/038272_P_MEITANTEIPIKACHUU.jpg"
+        },
+        {
             "id": "S-P-108",
             "number": "108/S-P",
             "name": "ザルードV",

@@ -1,0 +1,82 @@
+{
+    "packId": "SM6b",
+    "cards": [
+        {
+            "id": "SM6b-067",
+            "number": "067/066",
+            "name": "フリーザーGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035713_P_FURIZAGX.jpg"
+        },
+        {
+            "id": "SM6b-068",
+            "number": "068/066",
+            "name": "マルマインGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035714_P_MARUMAINGX.jpg"
+        },
+        {
+            "id": "SM6b-069",
+            "number": "069/066",
+            "name": "バリヤードGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035715_P_BARIYADOGX.jpg"
+        },
+        {
+            "id": "SM6b-070",
+            "number": "070/066",
+            "name": "ジュペッタGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035716_P_JUPETTAGX.jpg"
+        },
+        {
+            "id": "SM6b-071",
+            "number": "071/066",
+            "name": "ハッサムGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035717_P_HASSAMUGX.jpg"
+        },
+        {
+            "id": "SM6b-072",
+            "number": "072/066",
+            "name": "ボーマンダGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035718_P_BOMANDAGX.jpg"
+        },
+        {
+            "id": "SM6b-073",
+            "number": "073/066",
+            "name": "地底探険隊",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035719_T_CHITEITANKENTAI.jpg"
+        },
+        {
+            "id": "SM6b-074",
+            "number": "074/066",
+            "name": "TVレポーター",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035720_T_TVREPOTA.jpg"
+        },
+        {
+            "id": "SM6b-075",
+            "number": "075/066",
+            "name": "ぼんぐり職人",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035721_T_BONGURISHOKUNIN.jpg"
+        },
+        {
+            "id": "SM6b-076",
+            "number": "076/066",
+            "name": "マサキのメンテナンス",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035722_T_MASAKINOMENTENANSU.jpg"
+        },
+        {
+            "id": "SM6b-077",
+            "number": "077/066",
+            "name": "モノマネむすめ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6b/035723_T_MONOMANEMUSUME.jpg"
+        }
+    ]
+}

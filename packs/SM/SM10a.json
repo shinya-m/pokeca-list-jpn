@@ -1,0 +1,439 @@
+{
+    "packId": "SM10a",
+    "cards": [
+        {
+            "id": "SM10a-001",
+            "number": "001/054",
+            "name": "カブルモ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036541_P_KABURUMO.jpg"
+        },
+        {
+            "id": "SM10a-002",
+            "number": "002/054",
+            "name": "ブーバー",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036542_P_BUBA.jpg"
+        },
+        {
+            "id": "SM10a-003",
+            "number": "003/054",
+            "name": "ブーバーン",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036543_P_BUBAN.jpg"
+        },
+        {
+            "id": "SM10a-004",
+            "number": "004/054",
+            "name": "ヒードランGX",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036544_P_HIDORANGX.jpg"
+        },
+        {
+            "id": "SM10a-005",
+            "number": "005/054",
+            "name": "ヒトモシ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036545_P_HITOMOSHI.jpg"
+        },
+        {
+            "id": "SM10a-006",
+            "number": "006/054",
+            "name": "ランプラー",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036546_P_RANPURA.jpg"
+        },
+        {
+            "id": "SM10a-007",
+            "number": "007/054",
+            "name": "シャンデラ",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036547_P_SHANDERA.jpg"
+        },
+        {
+            "id": "SM10a-008",
+            "number": "008/054",
+            "name": "ライチュウ&アローラ ライチュウGX",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036548_P_RAICHUUARORARAICHUUGX.jpg"
+        },
+        {
+            "id": "SM10a-009",
+            "number": "009/054",
+            "name": "ピカチュウ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036549_P_PIKACHUU.jpg"
+        },
+        {
+            "id": "SM10a-010",
+            "number": "010/054",
+            "name": "アローラ ライチュウ",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036550_P_ARORARAICHUU.jpg"
+        },
+        {
+            "id": "SM10a-011",
+            "number": "011/054",
+            "name": "マッギョ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036551_P_MAGGYO.jpg"
+        },
+        {
+            "id": "SM10a-012",
+            "number": "012/054",
+            "name": "ボルトロス",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036552_P_BORUTOROSU.jpg"
+        },
+        {
+            "id": "SM10a-013",
+            "number": "013/054",
+            "name": "アローラ ガラガラ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036553_P_ARORAGARAGARA.jpg"
+        },
+        {
+            "id": "SM10a-014",
+            "number": "014/054",
+            "name": "フワンテ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036554_P_FUWANTE.jpg"
+        },
+        {
+            "id": "SM10a-015",
+            "number": "015/054",
+            "name": "フワライド",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036555_P_FUWARAIDO.jpg"
+        },
+        {
+            "id": "SM10a-016",
+            "number": "016/054",
+            "name": "ギラティナ",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036556_P_GIRATEINA.jpg"
+        },
+        {
+            "id": "SM10a-017",
+            "number": "017/054",
+            "name": "ムンナ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036557_P_MUNNA.jpg"
+        },
+        {
+            "id": "SM10a-018",
+            "number": "018/054",
+            "name": "ムシャーナ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036558_P_MUSHANA.jpg"
+        },
+        {
+            "id": "SM10a-019",
+            "number": "019/054",
+            "name": "カラカラ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036559_P_KARAKARA.jpg"
+        },
+        {
+            "id": "SM10a-020",
+            "number": "020/054",
+            "name": "アサナン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036560_P_ASANAN.jpg"
+        },
+        {
+            "id": "SM10a-021",
+            "number": "021/054",
+            "name": "チャーレム",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036561_P_CHAREMU.jpg"
+        },
+        {
+            "id": "SM10a-022",
+            "number": "022/054",
+            "name": "フカマル",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036562_P_FUKAMARU.jpg"
+        },
+        {
+            "id": "SM10a-023",
+            "number": "023/054",
+            "name": "ガバイト",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036563_P_GABAITO.jpg"
+        },
+        {
+            "id": "SM10a-024",
+            "number": "024/054",
+            "name": "ガブリアス",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036564_P_GABURIASU.jpg"
+        },
+        {
+            "id": "SM10a-025",
+            "number": "025/054",
+            "name": "リオル",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036565_P_RIORU.jpg"
+        },
+        {
+            "id": "SM10a-026",
+            "number": "026/054",
+            "name": "ルカリオ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036566_P_RUKARIO.jpg"
+        },
+        {
+            "id": "SM10a-027",
+            "number": "027/054",
+            "name": "メロエッタ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036567_P_MEROETTA.jpg"
+        },
+        {
+            "id": "SM10a-028",
+            "number": "028/054",
+            "name": "ジガルデ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036568_P_JIGARUDE.jpg"
+        },
+        {
+            "id": "SM10a-029",
+            "number": "029/054",
+            "name": "フーパ",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036569_P_FUPA.jpg"
+        },
+        {
+            "id": "SM10a-030",
+            "number": "030/054",
+            "name": "クチートGX",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036570_P_KUCHITOGX.jpg"
+        },
+        {
+            "id": "SM10a-031",
+            "number": "031/054",
+            "name": "シュバルゴ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036571_P_SHUBARUGO.jpg"
+        },
+        {
+            "id": "SM10a-032",
+            "number": "032/054",
+            "name": "ガブリアス&ギラティナGX",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036572_P_GABURIASUGIRATEINAGX.jpg"
+        },
+        {
+            "id": "SM10a-033",
+            "number": "033/054",
+            "name": "ラティアス",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036573_P_RATEIASU.jpg"
+        },
+        {
+            "id": "SM10a-034",
+            "number": "034/054",
+            "name": "キバゴ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036574_P_KIBAGO.jpg"
+        },
+        {
+            "id": "SM10a-035",
+            "number": "035/054",
+            "name": "オノンド",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036575_P_ONONDO.jpg"
+        },
+        {
+            "id": "SM10a-036",
+            "number": "036/054",
+            "name": "オノノクス",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036576_P_ONONOKUSU.jpg"
+        },
+        {
+            "id": "SM10a-037",
+            "number": "037/054",
+            "name": "ガルーラ",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036577_P_GARURA.jpg"
+        },
+        {
+            "id": "SM10a-038",
+            "number": "038/054",
+            "name": "ビッパ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036578_P_BIPPA.jpg"
+        },
+        {
+            "id": "SM10a-039",
+            "number": "039/054",
+            "name": "ビーダル",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036579_P_BIDARU.jpg"
+        },
+        {
+            "id": "SM10a-040",
+            "number": "040/054",
+            "name": "ゴンベ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036580_P_GONBE.jpg"
+        },
+        {
+            "id": "SM10a-041",
+            "number": "041/054",
+            "name": "マメパト",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036581_P_MAMEPATO.jpg"
+        },
+        {
+            "id": "SM10a-042",
+            "number": "042/054",
+            "name": "ハトーボー",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036582_P_HATOBO.jpg"
+        },
+        {
+            "id": "SM10a-043",
+            "number": "043/054",
+            "name": "ケンホロウ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036583_P_KENHOROU.jpg"
+        },
+        {
+            "id": "SM10a-044",
+            "number": "044/054",
+            "name": "トルネロス",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036584_P_TORUNEROSU.jpg"
+        },
+        {
+            "id": "SM10a-045",
+            "number": "045/054",
+            "name": "タッグスイッチ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036585_T_TAGGUSUICCHI.jpg"
+        },
+        {
+            "id": "SM10a-046",
+            "number": "046/054",
+            "name": "リセットスタンプ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036586_T_RISETTOSUTANPU.jpg"
+        },
+        {
+            "id": "SM10a-047",
+            "number": "047/054",
+            "name": "くろおび",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036587_T_KUROOBI.jpg"
+        },
+        {
+            "id": "SM10a-048",
+            "number": "048/054",
+            "name": "ギーマ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036588_T_GIMA.jpg"
+        },
+        {
+            "id": "SM10a-049",
+            "number": "049/054",
+            "name": "コーチトレーナー",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036589_T_KOCHITORENA.jpg"
+        },
+        {
+            "id": "SM10a-050",
+            "number": "050/054",
+            "name": "巨大なカマド",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036590_T_KYODAINAKAMADO.jpg"
+        },
+        {
+            "id": "SM10a-051",
+            "number": "051/054",
+            "name": "あなぬけのヒモ",
+            "rarity": "TR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036591_T_ANANUKENOHIMO.jpg"
+        },
+        {
+            "id": "SM10a-052",
+            "number": "052/054",
+            "name": "ネストボール",
+            "rarity": "TR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036592_T_NESUTOBORU.jpg"
+        },
+        {
+            "id": "SM10a-053",
+            "number": "053/054",
+            "name": "ロトム図鑑",
+            "rarity": "TR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036593_T_ROTOMUZUKAN.jpg"
+        },
+        {
+            "id": "SM10a-054",
+            "number": "054/054",
+            "name": "フウとラン",
+            "rarity": "TR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036594_T_FUUTORAN.jpg"
+        },
+        {
+            "id": "SM10a-055",
+            "number": "055/054",
+            "name": "ヒードランGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036710_P_HIDORANGX.jpg"
+        },
+        {
+            "id": "SM10a-056",
+            "number": "056/054",
+            "name": "ライチュウ&アローラ ライチュウGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036711_P_RAICHUUARORARAICHUUGX.jpg"
+        },
+        {
+            "id": "SM10a-057",
+            "number": "057/054",
+            "name": "ライチュウ&アローラ ライチュウGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036712_P_RAICHUUARORARAICHUUGX.jpg"
+        },
+        {
+            "id": "SM10a-058",
+            "number": "058/054",
+            "name": "クチートGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036713_P_KUCHITOGX.jpg"
+        },
+        {
+            "id": "SM10a-059",
+            "number": "059/054",
+            "name": "ガブリアス&ギラティナGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036714_P_GABURIASUGIRATEINAGX.jpg"
+        },
+        {
+            "id": "SM10a-060",
+            "number": "060/054",
+            "name": "ガブリアス&ギラティナGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036715_P_GABURIASUGIRATEINAGX.jpg"
+        },
+        {
+            "id": "SM10a-061",
+            "number": "061/054",
+            "name": "ギーマ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036716_T_GIMA.jpg"
+        },
+        {
+            "id": "SM10a-062",
+            "number": "062/054",
+            "name": "コーチトレーナー",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM10a/036717_T_KOCHITORENA.jpg"
+        }
+    ]
+}

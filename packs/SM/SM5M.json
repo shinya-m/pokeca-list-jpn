@@ -1,0 +1,47 @@
+{
+    "packId": "SM5M",
+    "cards": [
+        {
+            "id": "SM5M-067",
+            "number": "067/066",
+            "name": "グレイシアGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5M/035687_P_GUREISHIAGX.jpg"
+        },
+        {
+            "id": "SM5M-068",
+            "number": "068/066",
+            "name": "ネクロズマ あかつきのつばさGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5M/035688_P_NEKUROZUMAAKATSUKINOTSUBASAGX.jpg"
+        },
+        {
+            "id": "SM5M-069",
+            "number": "069/066",
+            "name": "パルキアGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5M/035689_P_PARUKIAGX.jpg"
+        },
+        {
+            "id": "SM5M-070",
+            "number": "070/066",
+            "name": "シロナ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5M/035690_T_SHIRONA.jpg"
+        },
+        {
+            "id": "SM5M-071",
+            "number": "071/066",
+            "name": "デンジ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5M/035691_T_DENJI.jpg"
+        },
+        {
+            "id": "SM5M-072",
+            "number": "072/066",
+            "name": "ハンサム",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5M/035692_T_HANSAMU.jpg"
+        }
+    ]
+}

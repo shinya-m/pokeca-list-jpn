@@ -1,0 +1,26 @@
+{
+    "packId": "SM4S",
+    "cards": [
+        {
+            "id": "SM4S-053",
+            "number": "053/050",
+            "name": "カミツルギGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM4S/035667_P_KAMITSURUGIGX.jpg"
+        },
+        {
+            "id": "SM4S-054",
+            "number": "054/050",
+            "name": "シルヴァディGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM4S/035668_P_SHIRUVADEIGX.jpg"
+        },
+        {
+            "id": "SM4S-055",
+            "number": "055/050",
+            "name": "グラジオ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM4S/035669_T_GURAJIO.jpg"
+        }
+    ]
+}

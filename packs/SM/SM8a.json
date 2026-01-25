@@ -1,0 +1,47 @@
+{
+    "packId": "SM8a",
+    "cards": [
+        {
+            "id": "SM8a-053",
+            "number": "053/052",
+            "name": "デンリュウGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8a/035752_P_DENRYUUGX.jpg"
+        },
+        {
+            "id": "SM8a-054",
+            "number": "054/052",
+            "name": "フーパGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8a/035753_P_FUPAGX.jpg"
+        },
+        {
+            "id": "SM8a-055",
+            "number": "055/052",
+            "name": "ガオガエンGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8a/035754_P_GAOGAENGX.jpg"
+        },
+        {
+            "id": "SM8a-056",
+            "number": "056/052",
+            "name": "コバルオンGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8a/035755_P_KOBARUONGX.jpg"
+        },
+        {
+            "id": "SM8a-057",
+            "number": "057/052",
+            "name": "クチナシ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8a/035756_T_KUCHINASHI.jpg"
+        },
+        {
+            "id": "SM8a-058",
+            "number": "058/052",
+            "name": "ミカン",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8a/035757_T_MIKAN.jpg"
+        }
+    ]
+}

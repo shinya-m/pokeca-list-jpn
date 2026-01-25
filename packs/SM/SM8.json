@@ -1,0 +1,61 @@
+{
+    "packId": "SM8",
+    "cards": [
+        {
+            "id": "SM8-096",
+            "number": "096/095",
+            "name": "ツボツボGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8/035744_P_TSUBOTSUBOGX.jpg"
+        },
+        {
+            "id": "SM8-097",
+            "number": "097/095",
+            "name": "ズガドーンGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8/035745_P_ZUGADONGX.jpg"
+        },
+        {
+            "id": "SM8-098",
+            "number": "098/095",
+            "name": "スイクンGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8/035746_P_SUIKUNGX.jpg"
+        },
+        {
+            "id": "SM8-099",
+            "number": "099/095",
+            "name": "バンギラスGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8/035747_P_BANGIRASUGX.jpg"
+        },
+        {
+            "id": "SM8-100",
+            "number": "100/095",
+            "name": "ルギアGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8/035748_P_RUGIAGX.jpg"
+        },
+        {
+            "id": "SM8-101",
+            "number": "101/095",
+            "name": "アカネ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8/035749_T_AKANE.jpg"
+        },
+        {
+            "id": "SM8-102",
+            "number": "102/095",
+            "name": "ウツギ博士のレクチャー",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8/035750_T_UTSUGIHAKASENOREKUCHA.jpg"
+        },
+        {
+            "id": "SM8-103",
+            "number": "103/095",
+            "name": "ザオボー",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8/035751_T_ZAOBO.jpg"
+        }
+    ]
+}

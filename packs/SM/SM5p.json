@@ -1,0 +1,47 @@
+{
+    "packId": "SM5p",
+    "cards": [
+        {
+            "id": "SM5p-051",
+            "number": "051/050",
+            "name": "パルキアGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5p/035693_P_PARUKIAGX.jpg"
+        },
+        {
+            "id": "SM5p-052",
+            "number": "052/050",
+            "name": "アーゴヨンGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5p/035694_P_AGOYONGX.jpg"
+        },
+        {
+            "id": "SM5p-053",
+            "number": "053/050",
+            "name": "ルカリオGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5p/035695_P_RUKARIOGX.jpg"
+        },
+        {
+            "id": "SM5p-054",
+            "number": "054/050",
+            "name": "ディアルガGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5p/035696_P_DEIARUGAGX.jpg"
+        },
+        {
+            "id": "SM5p-055",
+            "number": "055/050",
+            "name": "ウルトラ調査隊",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5p/035697_T_URUTORACHOUSATAI.jpg"
+        },
+        {
+            "id": "SM5p-056",
+            "number": "056/050",
+            "name": "マキシ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5p/035698_T_MAKISHI.jpg"
+        }
+    ]
+}

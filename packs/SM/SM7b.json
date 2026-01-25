@@ -1,0 +1,47 @@
+{
+    "packId": "SM7b",
+    "cards": [
+        {
+            "id": "SM7b-051",
+            "number": "051/050",
+            "name": "ジュカインGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7b/035738_P_JUKAINGX.jpg"
+        },
+        {
+            "id": "SM7b-052",
+            "number": "052/050",
+            "name": "シンボラーGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7b/035739_P_SHINBORAGX.jpg"
+        },
+        {
+            "id": "SM7b-053",
+            "number": "053/050",
+            "name": "アローラ キュウコンGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7b/035740_P_ARORAKYUUKONGX.jpg"
+        },
+        {
+            "id": "SM7b-054",
+            "number": "054/050",
+            "name": "ミミッキュGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7b/035741_P_MIMIKKYUGX.jpg"
+        },
+        {
+            "id": "SM7b-055",
+            "number": "055/050",
+            "name": "マツバ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7b/035742_T_MATSUBA.jpg"
+        },
+        {
+            "id": "SM7b-056",
+            "number": "056/050",
+            "name": "マツリカ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7b/035743_T_MATSURIKA.jpg"
+        }
+    ]
+}

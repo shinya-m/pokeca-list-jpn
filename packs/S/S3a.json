@@ -2,6 +2,118 @@
     "packId": "S3a",
     "cards": [
         {
+            "id": "S3a-001",
+            "number": "001/076",
+            "name": "ビードル",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038407_P_BIDORU.jpg"
+        },
+        {
+            "id": "S3a-002",
+            "number": "002/076",
+            "name": "コクーン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038408_P_KOKUN.jpg"
+        },
+        {
+            "id": "S3a-003",
+            "number": "003/076",
+            "name": "スピアー",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038409_P_SUPIA.jpg"
+        },
+        {
+            "id": "S3a-004",
+            "number": "004/076",
+            "name": "タマタマ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038410_P_TAMATAMA.jpg"
+        },
+        {
+            "id": "S3a-005",
+            "number": "005/076",
+            "name": "ナッシー",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038411_P_NASSHI.jpg"
+        },
+        {
+            "id": "S3a-006",
+            "number": "006/076",
+            "name": "ヤンヤンマ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038412_P_YANYANMA.jpg"
+        },
+        {
+            "id": "S3a-007",
+            "number": "007/076",
+            "name": "メガヤンマ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038413_P_MEGAYANMA.jpg"
+        },
+        {
+            "id": "S3a-008",
+            "number": "008/076",
+            "name": "クヌギダマ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038414_P_KUNUGIDAMA.jpg"
+        },
+        {
+            "id": "S3a-009",
+            "number": "009/076",
+            "name": "セレビィ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038415_P_SEREBII.jpg"
+        },
+        {
+            "id": "S3a-010",
+            "number": "010/076",
+            "name": "シェイミ",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038416_P_SHIEIMI.jpg"
+        },
+        {
+            "id": "S3a-011",
+            "number": "011/076",
+            "name": "ゲノセクト",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038417_P_GENOSEKUTO.jpg"
+        },
+        {
+            "id": "S3a-012",
+            "number": "012/076",
+            "name": "ダダリン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038418_P_DADARIN.jpg"
+        },
+        {
+            "id": "S3a-013",
+            "number": "013/076",
+            "name": "ザルードV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038419_P_ZARUDOV.jpg"
+        },
+        {
+            "id": "S3a-014",
+            "number": "014/076",
+            "name": "デンリュウV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038420_P_DENRYUUV.jpg"
+        },
+        {
+            "id": "S3a-015",
+            "number": "015/076",
+            "name": "ライコウ",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038421_P_RAIKOU.jpg"
+        },
+        {
+            "id": "S3a-016",
+            "number": "016/076",
+            "name": "ラクライ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038422_P_RAKURAI.jpg"
+        },
+        {
             "id": "S3a-017",
             "number": "017/076",
             "name": "ライボルト",

@@ -1,0 +1,47 @@
+{
+    "packId": "SM5S",
+    "cards": [
+        {
+            "id": "SM5S-067",
+            "number": "067/066",
+            "name": "リーフィアGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5S/035681_P_RIFIAGX.jpg"
+        },
+        {
+            "id": "SM5S-068",
+            "number": "068/066",
+            "name": "ネクロズマ たそがれのたてがみGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5S/035682_P_NEKUROZUMATASOGARENOTATEGAMIGX.jpg"
+        },
+        {
+            "id": "SM5S-069",
+            "number": "069/066",
+            "name": "ディアルガGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5S/035683_P_DEIARUGAGX.jpg"
+        },
+        {
+            "id": "SM5S-070",
+            "number": "070/066",
+            "name": "ナタネ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5S/035684_T_NATANE.jpg"
+        },
+        {
+            "id": "SM5S-071",
+            "number": "071/066",
+            "name": "ポケモンだいすきクラブ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5S/035685_T_POKEMONDAISUKIKURABU.jpg"
+        },
+        {
+            "id": "SM5S-072",
+            "number": "072/066",
+            "name": "マーズ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM5S/035686_T_MAZU.jpg"
+        }
+    ]
+}

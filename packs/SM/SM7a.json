@@ -1,0 +1,47 @@
+{
+    "packId": "SM7a",
+    "cards": [
+        {
+            "id": "SM7a-061",
+            "number": "061/060",
+            "name": "ビリジオンGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7a/035732_P_BIRIJIONGX.jpg"
+        },
+        {
+            "id": "SM7a-062",
+            "number": "062/060",
+            "name": "マグカルゴGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7a/035733_P_MAGUKARUGOGX.jpg"
+        },
+        {
+            "id": "SM7a-063",
+            "number": "063/060",
+            "name": "ゼラオラGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7a/035734_P_ZERAORAGX.jpg"
+        },
+        {
+            "id": "SM7a-064",
+            "number": "064/060",
+            "name": "ゲノセクトGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7a/035735_P_GENOSEKUTOGX.jpg"
+        },
+        {
+            "id": "SM7a-065",
+            "number": "065/060",
+            "name": "カヒリ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7a/035736_T_KAHIRI.jpg"
+        },
+        {
+            "id": "SM7a-066",
+            "number": "066/060",
+            "name": "ジャッジマン",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7a/035737_T_JAJJIMAN.jpg"
+        }
+    ]
+}

@@ -1,0 +1,656 @@
+{
+    "packId": "SM8b",
+    "cards": [
+        {
+            "id": "SM8b-151",
+            "number": "151/150",
+            "name": "エーテル財団職員",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036040_T_ETERUZAIDANSHOKUIN.jpg"
+        },
+        {
+            "id": "SM8b-152",
+            "number": "152/150",
+            "name": "グズマ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036041_T_GUZUMA.jpg"
+        },
+        {
+            "id": "SM8b-153",
+            "number": "153/150",
+            "name": "シロナ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036042_T_SHIRONA.jpg"
+        },
+        {
+            "id": "SM8b-154",
+            "number": "154/150",
+            "name": "釣り人",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036043_T_TSURIBITO.jpg"
+        },
+        {
+            "id": "SM8b-155",
+            "number": "155/150",
+            "name": "ノボリとクダリ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036044_T_NOBORITOKUDARI.jpg"
+        },
+        {
+            "id": "SM8b-156",
+            "number": "156/150",
+            "name": "やまおとこ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036045_T_YAMAOTOKO.jpg"
+        },
+        {
+            "id": "SM8b-157",
+            "number": "157/150",
+            "name": "ルミタン",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036046_T_RUMITAN.jpg"
+        },
+        {
+            "id": "SM8b-158",
+            "number": "158/150",
+            "name": "ラジュルネ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036047_T_RAJURUNE.jpg"
+        },
+        {
+            "id": "SM8b-159",
+            "number": "159/150",
+            "name": "ルスワール",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036048_T_RUSUWARU.jpg"
+        },
+        {
+            "id": "SM8b-160",
+            "number": "160/150",
+            "name": "ラニュイ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036049_T_RANYUI.jpg"
+        },
+        {
+            "id": "SM8b-161",
+            "number": "161/150",
+            "name": "ストライク",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036050_P_SUTORAIKU.jpg"
+        },
+        {
+            "id": "SM8b-162",
+            "number": "162/150",
+            "name": "モクロー",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036051_P_MOKURO.jpg"
+        },
+        {
+            "id": "SM8b-163",
+            "number": "163/150",
+            "name": "フクスロー",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036052_P_FUKUSURO.jpg"
+        },
+        {
+            "id": "SM8b-164",
+            "number": "164/150",
+            "name": "コソクムシ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036053_P_KOSOKUMUSHI.jpg"
+        },
+        {
+            "id": "SM8b-165",
+            "number": "165/150",
+            "name": "フェローチェ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036054_P_FEROCHIE.jpg"
+        },
+        {
+            "id": "SM8b-166",
+            "number": "166/150",
+            "name": "ヒトカゲ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036055_P_HITOKAGE.jpg"
+        },
+        {
+            "id": "SM8b-167",
+            "number": "167/150",
+            "name": "リザード",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036056_P_RIZADO.jpg"
+        },
+        {
+            "id": "SM8b-168",
+            "number": "168/150",
+            "name": "アローラ ロコン",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036057_P_ARORAROKON.jpg"
+        },
+        {
+            "id": "SM8b-169",
+            "number": "169/150",
+            "name": "ウパー",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036058_P_UPA.jpg"
+        },
+        {
+            "id": "SM8b-170",
+            "number": "170/150",
+            "name": "ヌオー",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036059_P_NUO.jpg"
+        },
+        {
+            "id": "SM8b-171",
+            "number": "171/150",
+            "name": "ケロマツ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036060_P_KEROMATSU.jpg"
+        },
+        {
+            "id": "SM8b-172",
+            "number": "172/150",
+            "name": "ゲコガシラ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036061_P_GEKOGASHIRA.jpg"
+        },
+        {
+            "id": "SM8b-173",
+            "number": "173/150",
+            "name": "ビリリダマ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036062_P_BIRIRIDAMA.jpg"
+        },
+        {
+            "id": "SM8b-174",
+            "number": "174/150",
+            "name": "デンジュモク",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036063_P_DENJUMOKU.jpg"
+        },
+        {
+            "id": "SM8b-175",
+            "number": "175/150",
+            "name": "ハブネーク",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036064_P_HABUNEKU.jpg"
+        },
+        {
+            "id": "SM8b-176",
+            "number": "176/150",
+            "name": "カゲボウズ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036065_P_KAGEBOUZU.jpg"
+        },
+        {
+            "id": "SM8b-177",
+            "number": "177/150",
+            "name": "マーイーカ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036066_P_MAIKA.jpg"
+        },
+        {
+            "id": "SM8b-178",
+            "number": "178/150",
+            "name": "カラマネロ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036067_P_KARAMANERO.jpg"
+        },
+        {
+            "id": "SM8b-179",
+            "number": "179/150",
+            "name": "ベベノム",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036068_P_BEBENOMU.jpg"
+        },
+        {
+            "id": "SM8b-180",
+            "number": "180/150",
+            "name": "ウソッキー",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036069_P_USOKKI.jpg"
+        },
+        {
+            "id": "SM8b-181",
+            "number": "181/150",
+            "name": "リオル",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036070_P_RIORU.jpg"
+        },
+        {
+            "id": "SM8b-182",
+            "number": "182/150",
+            "name": "ルカリオ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036071_P_RUKARIO.jpg"
+        },
+        {
+            "id": "SM8b-183",
+            "number": "183/150",
+            "name": "イワンコ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036072_P_IWANKO.jpg"
+        },
+        {
+            "id": "SM8b-184",
+            "number": "184/150",
+            "name": "マッシブーン",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036073_P_MASSHIBUN.jpg"
+        },
+        {
+            "id": "SM8b-185",
+            "number": "185/150",
+            "name": "ゾロア",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036074_P_ZOROA.jpg"
+        },
+        {
+            "id": "SM8b-186",
+            "number": "186/150",
+            "name": "アクジキング",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036075_P_AKUJIKINGU.jpg"
+        },
+        {
+            "id": "SM8b-187",
+            "number": "187/150",
+            "name": "コイル",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036076_P_KOIRU.jpg"
+        },
+        {
+            "id": "SM8b-188",
+            "number": "188/150",
+            "name": "レアコイル",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036077_P_REAKOIRU.jpg"
+        },
+        {
+            "id": "SM8b-189",
+            "number": "189/150",
+            "name": "ジバコイル",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036078_P_JIBAKOIRU.jpg"
+        },
+        {
+            "id": "SM8b-190",
+            "number": "190/150",
+            "name": "ダンバル",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036079_P_DANBARU.jpg"
+        },
+        {
+            "id": "SM8b-191",
+            "number": "191/150",
+            "name": "メタング",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036080_P_METANGU.jpg"
+        },
+        {
+            "id": "SM8b-192",
+            "number": "192/150",
+            "name": "テッカグヤ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036081_P_TEKKAGUYA.jpg"
+        },
+        {
+            "id": "SM8b-193",
+            "number": "193/150",
+            "name": "カミツルギ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036082_P_KAMITSURUGI.jpg"
+        },
+        {
+            "id": "SM8b-194",
+            "number": "194/150",
+            "name": "ラルトス",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036083_P_RARUTOSU.jpg"
+        },
+        {
+            "id": "SM8b-195",
+            "number": "195/150",
+            "name": "キルリア",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036084_P_KIRURIA.jpg"
+        },
+        {
+            "id": "SM8b-196",
+            "number": "196/150",
+            "name": "ディアンシー",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036085_P_DEIANSHI.jpg"
+        },
+        {
+            "id": "SM8b-197",
+            "number": "197/150",
+            "name": "チルタリス",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036086_P_CHIRUTARISU.jpg"
+        },
+        {
+            "id": "SM8b-198",
+            "number": "198/150",
+            "name": "フカマル",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036087_P_FUKAMARU.jpg"
+        },
+        {
+            "id": "SM8b-199",
+            "number": "199/150",
+            "name": "ガバイト",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036088_P_GABAITO.jpg"
+        },
+        {
+            "id": "SM8b-200",
+            "number": "200/150",
+            "name": "ガブリアス",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036089_P_GABURIASU.jpg"
+        },
+        {
+            "id": "SM8b-201",
+            "number": "201/150",
+            "name": "イーブイ",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036090_P_IBUI.jpg"
+        },
+        {
+            "id": "SM8b-202",
+            "number": "202/150",
+            "name": "チルット",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036091_P_CHIRUTTO.jpg"
+        },
+        {
+            "id": "SM8b-203",
+            "number": "203/150",
+            "name": "オンバット",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036092_P_ONBATTO.jpg"
+        },
+        {
+            "id": "SM8b-204",
+            "number": "204/150",
+            "name": "ヤレユータン",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036093_P_YAREYUTAN.jpg"
+        },
+        {
+            "id": "SM8b-205",
+            "number": "205/150",
+            "name": "タイプ：ヌル",
+            "rarity": "S",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036094_P_TAIPUNURU.jpg"
+        },
+        {
+            "id": "SM8b-206",
+            "number": "206/150",
+            "name": "リーフィアGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036095_P_RIFIAGX.jpg"
+        },
+        {
+            "id": "SM8b-207",
+            "number": "207/150",
+            "name": "ジュナイパーGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036096_P_JUNAIPAGX.jpg"
+        },
+        {
+            "id": "SM8b-208",
+            "number": "208/150",
+            "name": "グソクムシャGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036097_P_GUSOKUMUSHAGX.jpg"
+        },
+        {
+            "id": "SM8b-209",
+            "number": "209/150",
+            "name": "リザードンGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036098_P_RIZADONGX.jpg"
+        },
+        {
+            "id": "SM8b-210",
+            "number": "210/150",
+            "name": "ホウオウGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036099_P_HOUOUGX.jpg"
+        },
+        {
+            "id": "SM8b-211",
+            "number": "211/150",
+            "name": "レシラムGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036100_P_RESHIRAMUGX.jpg"
+        },
+        {
+            "id": "SM8b-212",
+            "number": "212/150",
+            "name": "バクガメスGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036101_P_BAKUGAMESUGX.jpg"
+        },
+        {
+            "id": "SM8b-213",
+            "number": "213/150",
+            "name": "アローラ キュウコンGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036102_P_ARORAKYUUKONGX.jpg"
+        },
+        {
+            "id": "SM8b-214",
+            "number": "214/150",
+            "name": "フリーザーGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036103_P_FURIZAGX.jpg"
+        },
+        {
+            "id": "SM8b-215",
+            "number": "215/150",
+            "name": "グレイシアGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036104_P_GUREISHIAGX.jpg"
+        },
+        {
+            "id": "SM8b-216",
+            "number": "216/150",
+            "name": "ゲッコウガGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036105_P_GEKKOUGAGX.jpg"
+        },
+        {
+            "id": "SM8b-217",
+            "number": "217/150",
+            "name": "マルマインGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036106_P_MARUMAINGX.jpg"
+        },
+        {
+            "id": "SM8b-218",
+            "number": "218/150",
+            "name": "デンジュモクGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036107_P_DENJUMOKUGX.jpg"
+        },
+        {
+            "id": "SM8b-219",
+            "number": "219/150",
+            "name": "ミュウツーGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036108_P_MYUUTSUGX.jpg"
+        },
+        {
+            "id": "SM8b-220",
+            "number": "220/150",
+            "name": "エーフィGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036109_P_EFIGX.jpg"
+        },
+        {
+            "id": "SM8b-221",
+            "number": "221/150",
+            "name": "ジュペッタGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036110_P_JUPETTAGX.jpg"
+        },
+        {
+            "id": "SM8b-222",
+            "number": "222/150",
+            "name": "ウツロイドGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036111_P_UTSUROIDOGX.jpg"
+        },
+        {
+            "id": "SM8b-223",
+            "number": "223/150",
+            "name": "アーゴヨンGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036112_P_AGOYONGX.jpg"
+        },
+        {
+            "id": "SM8b-224",
+            "number": "224/150",
+            "name": "ルカリオGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036113_P_RUKARIOGX.jpg"
+        },
+        {
+            "id": "SM8b-225",
+            "number": "225/150",
+            "name": "ジガルデGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036114_P_JIGARUDEGX.jpg"
+        },
+        {
+            "id": "SM8b-226",
+            "number": "226/150",
+            "name": "ルガルガンGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036115_P_RUGARUGANGX.jpg"
+        },
+        {
+            "id": "SM8b-227",
+            "number": "227/150",
+            "name": "ルガルガンGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036116_P_RUGARUGANGX.jpg"
+        },
+        {
+            "id": "SM8b-228",
+            "number": "228/150",
+            "name": "マッシブーンGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036117_P_MASSHIBUNGX.jpg"
+        },
+        {
+            "id": "SM8b-229",
+            "number": "229/150",
+            "name": "ブラッキーGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036118_P_BURAKKIGX.jpg"
+        },
+        {
+            "id": "SM8b-230",
+            "number": "230/150",
+            "name": "ダークライGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036119_P_DAKURAIGX.jpg"
+        },
+        {
+            "id": "SM8b-231",
+            "number": "231/150",
+            "name": "ゾロアークGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036120_P_ZOROAKUGX.jpg"
+        },
+        {
+            "id": "SM8b-232",
+            "number": "232/150",
+            "name": "アクジキングGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036121_P_AKUJIKINGUGX.jpg"
+        },
+        {
+            "id": "SM8b-233",
+            "number": "233/150",
+            "name": "ハッサムGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036122_P_HASSAMUGX.jpg"
+        },
+        {
+            "id": "SM8b-234",
+            "number": "234/150",
+            "name": "メタグロスGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036123_P_METAGUROSUGX.jpg"
+        },
+        {
+            "id": "SM8b-235",
+            "number": "235/150",
+            "name": "カミツルギGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036124_P_KAMITSURUGIGX.jpg"
+        },
+        {
+            "id": "SM8b-236",
+            "number": "236/150",
+            "name": "ツンデツンデGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036125_P_TSUNDETSUNDEGX.jpg"
+        },
+        {
+            "id": "SM8b-237",
+            "number": "237/150",
+            "name": "サーナイトGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036126_P_SANAITOGX.jpg"
+        },
+        {
+            "id": "SM8b-238",
+            "number": "238/150",
+            "name": "ニンフィアGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036127_P_NINFIAGX.jpg"
+        },
+        {
+            "id": "SM8b-239",
+            "number": "239/150",
+            "name": "チルタリスGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036128_P_CHIRUTARISUGX.jpg"
+        },
+        {
+            "id": "SM8b-240",
+            "number": "240/150",
+            "name": "レックウザGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036129_P_REKKUUZAGX.jpg"
+        },
+        {
+            "id": "SM8b-241",
+            "number": "241/150",
+            "name": "オンバーンGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036130_P_ONBANGX.jpg"
+        },
+        {
+            "id": "SM8b-242",
+            "number": "242/150",
+            "name": "シルヴァディGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036131_P_SHIRUVADEIGX.jpg"
+        },
+        {
+            "id": "SM8b-243",
+            "number": "243/150",
+            "name": "ジジーロンGX",
+            "rarity": "SSR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM8b/036132_P_JIJIRONGX.jpg"
+        }
+    ]
+}

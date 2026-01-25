@@ -1,0 +1,61 @@
+{
+    "packId": "SM7",
+    "cards": [
+        {
+            "id": "SM7-097",
+            "number": "097/096",
+            "name": "ダーテングGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7/035724_P_DATENGUGX.jpg"
+        },
+        {
+            "id": "SM7-098",
+            "number": "098/096",
+            "name": "バシャーモGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7/035725_P_BASHAMOGX.jpg"
+        },
+        {
+            "id": "SM7-099",
+            "number": "099/096",
+            "name": "ツンデツンデGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7/035726_P_TSUNDETSUNDEGX.jpg"
+        },
+        {
+            "id": "SM7-100",
+            "number": "100/096",
+            "name": "チルタリスGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7/035727_P_CHIRUTARISUGX.jpg"
+        },
+        {
+            "id": "SM7-101",
+            "number": "101/096",
+            "name": "レックウザGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7/035728_P_REKKUUZAGX.jpg"
+        },
+        {
+            "id": "SM7-102",
+            "number": "102/096",
+            "name": "ダイゴの決断",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7/035729_T_DAIGONOKETSUDAN.jpg"
+        },
+        {
+            "id": "SM7-103",
+            "number": "103/096",
+            "name": "フウとラン",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7/035730_T_FUUTORAN.jpg"
+        },
+        {
+            "id": "SM7-104",
+            "number": "104/096",
+            "name": "ルチア",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM7/035731_T_RUCHIA.jpg"
+        }
+    ]
+}

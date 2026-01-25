@@ -1,0 +1,40 @@
+{
+    "packId": "SM4A",
+    "cards": [
+        {
+            "id": "SM4A-051",
+            "number": "051/050",
+            "name": "ギャラドスGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM4A/035670_P_GYARADOSUGX.jpg"
+        },
+        {
+            "id": "SM4A-052",
+            "number": "052/050",
+            "name": "ウツロイドGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM4A/035671_P_UTSUROIDOGX.jpg"
+        },
+        {
+            "id": "SM4A-053",
+            "number": "053/050",
+            "name": "アクジキングGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM4A/035672_P_AKUJIKINGUGX.jpg"
+        },
+        {
+            "id": "SM4A-054",
+            "number": "054/050",
+            "name": "アローラ ナッシーGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM4A/035673_P_ARORANASSHIGX.jpg"
+        },
+        {
+            "id": "SM4A-055",
+            "number": "055/050",
+            "name": "ルザミーネ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM4A/035674_T_RUZAMINE.jpg"
+        }
+    ]
+}

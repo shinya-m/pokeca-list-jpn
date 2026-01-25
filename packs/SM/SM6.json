@@ -1,0 +1,61 @@
+{
+    "packId": "SM6",
+    "cards": [
+        {
+            "id": "SM6-095",
+            "number": "095/094",
+            "name": "ゲッコウガGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6/035699_P_GEKKOUGAGX.jpg"
+        },
+        {
+            "id": "SM6-096",
+            "number": "096/094",
+            "name": "ジガルデGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6/035700_P_JIGARUDEGX.jpg"
+        },
+        {
+            "id": "SM6-097",
+            "number": "097/094",
+            "name": "イベルタルGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6/035701_P_IBERUTARUGX.jpg"
+        },
+        {
+            "id": "SM6-098",
+            "number": "098/094",
+            "name": "ゼルネアスGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6/035702_P_ZERUNEASUGX.jpg"
+        },
+        {
+            "id": "SM6-099",
+            "number": "099/094",
+            "name": "ウルトラネクロズマGX",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6/035703_P_URUTORANEKUROZUMAGX.jpg"
+        },
+        {
+            "id": "SM6-100",
+            "number": "100/094",
+            "name": "おじょうさま",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6/035704_T_OJOUSAMA.jpg"
+        },
+        {
+            "id": "SM6-101",
+            "number": "101/094",
+            "name": "カルネ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6/035705_T_KARUNE.jpg"
+        },
+        {
+            "id": "SM6-102",
+            "number": "102/094",
+            "name": "ユリーカ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/SM6/035706_T_YURIKA.jpg"
+        }
+    ]
+}
