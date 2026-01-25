@@ -2,6 +2,265 @@
     "packId": "S8",
     "cards": [
         {
+            "id": "S8-001",
+            "number": "001/100",
+            "name": "キャタピー",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039963_P_KYATAPI.jpg"
+        },
+        {
+            "id": "S8-002",
+            "number": "002/100",
+            "name": "トランセル",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039964_P_TORANSERU.jpg"
+        },
+        {
+            "id": "S8-003",
+            "number": "003/100",
+            "name": "バタフリー",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039965_P_BATAFURI.jpg"
+        },
+        {
+            "id": "S8-004",
+            "number": "004/100",
+            "name": "キノココ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039966_P_KINOKOKO.jpg"
+        },
+        {
+            "id": "S8-005",
+            "number": "005/100",
+            "name": "キノガッサ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039967_P_KINOGASSA.jpg"
+        },
+        {
+            "id": "S8-006",
+            "number": "006/100",
+            "name": "マラカッチ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039968_P_MARAKACCHI.jpg"
+        },
+        {
+            "id": "S8-007",
+            "number": "007/100",
+            "name": "チョボマキ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039969_P_CHOBOMAKI.jpg"
+        },
+        {
+            "id": "S8-008",
+            "number": "008/100",
+            "name": "アギルダー",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039970_P_AGIRUDA.jpg"
+        },
+        {
+            "id": "S8-009",
+            "number": "009/100",
+            "name": "ビリジオン",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039971_P_BIRIJION.jpg"
+        },
+        {
+            "id": "S8-010",
+            "number": "010/100",
+            "name": "アゴジムシ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039972_P_AGOJIMUSHI.jpg"
+        },
+        {
+            "id": "S8-011",
+            "number": "011/100",
+            "name": "アマージョV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039973_P_AMAJOV.jpg"
+        },
+        {
+            "id": "S8-012",
+            "number": "012/100",
+            "name": "ガーディ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039974_P_GADEI.jpg"
+        },
+        {
+            "id": "S8-013",
+            "number": "013/100",
+            "name": "ウインディ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039975_P_UINDEI.jpg"
+        },
+        {
+            "id": "S8-014",
+            "number": "014/100",
+            "name": "シャンデラV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039976_P_SHANDERAV.jpg"
+        },
+        {
+            "id": "S8-015",
+            "number": "015/100",
+            "name": "シャンデラVMAX",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039977_P_SHANDERAVMAX.jpg"
+        },
+        {
+            "id": "S8-016",
+            "number": "016/100",
+            "name": "クイタラン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039978_P_KUITARAN.jpg"
+        },
+        {
+            "id": "S8-017",
+            "number": "017/100",
+            "name": "オドリドリ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039979_P_ODORIDORI.jpg"
+        },
+        {
+            "id": "S8-018",
+            "number": "018/100",
+            "name": "ヒトデマン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039980_P_HITODEMAN.jpg"
+        },
+        {
+            "id": "S8-019",
+            "number": "019/100",
+            "name": "スターミー",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039981_P_SUTAMI.jpg"
+        },
+        {
+            "id": "S8-020",
+            "number": "020/100",
+            "name": "ワニノコ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039982_P_WANINOKO.jpg"
+        },
+        {
+            "id": "S8-021",
+            "number": "021/100",
+            "name": "アリゲイツ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039983_P_ARIGEITSU.jpg"
+        },
+        {
+            "id": "S8-022",
+            "number": "022/100",
+            "name": "オーダイル",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039984_P_ODAIRU.jpg"
+        },
+        {
+            "id": "S8-023",
+            "number": "023/100",
+            "name": "パールル",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039985_P_PARURU.jpg"
+        },
+        {
+            "id": "S8-024",
+            "number": "024/100",
+            "name": "ハンテール",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039986_P_HANTERU.jpg"
+        },
+        {
+            "id": "S8-025",
+            "number": "025/100",
+            "name": "サクラビス",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039987_P_SAKURABISU.jpg"
+        },
+        {
+            "id": "S8-026",
+            "number": "026/100",
+            "name": "ケケンカニV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039988_P_KEKENKANIV.jpg"
+        },
+        {
+            "id": "S8-027",
+            "number": "027/100",
+            "name": "ナマコブシ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039989_P_NAMAKOBUSHI.jpg"
+        },
+        {
+            "id": "S8-028",
+            "number": "028/100",
+            "name": "ユキハミ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039990_P_YUKIHAMI.jpg"
+        },
+        {
+            "id": "S8-029",
+            "number": "029/100",
+            "name": "モスノウ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039991_P_MOSUNOU.jpg"
+        },
+        {
+            "id": "S8-030",
+            "number": "030/100",
+            "name": "エリキテル",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039992_P_ERIKITERU.jpg"
+        },
+        {
+            "id": "S8-031",
+            "number": "031/100",
+            "name": "エレザード",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039993_P_EREZADO.jpg"
+        },
+        {
+            "id": "S8-032",
+            "number": "032/100",
+            "name": "デンヂムシ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039994_P_DENDIMUSHI.jpg"
+        },
+        {
+            "id": "S8-033",
+            "number": "033/100",
+            "name": "クワガノン",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039995_P_KUWAGANON.jpg"
+        },
+        {
+            "id": "S8-034",
+            "number": "034/100",
+            "name": "パルスワンV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039996_P_PARUSUWANV.jpg"
+        },
+        {
+            "id": "S8-035",
+            "number": "035/100",
+            "name": "パルスワンVMAX",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039997_P_PARUSUWANVMAX.jpg"
+        },
+        {
+            "id": "S8-036",
+            "number": "036/100",
+            "name": "エレズン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039998_P_EREZUN.jpg"
+        },
+        {
+            "id": "S8-037",
+            "number": "037/100",
+            "name": "ストリンダー",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S8/039999_P_SUTORINDA.jpg"
+        },
+        {
             "id": "S8-038",
             "number": "038/100",
             "name": "ルージュラ",
