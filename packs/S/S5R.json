@@ -1,0 +1,572 @@
+{
+    "packId": "S5R",
+    "cards": [
+        {
+            "id": "S5R-001",
+            "number": "001/070",
+            "name": "マダツボミ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039131_P_MADATSUBOMI.jpg"
+        },
+        {
+            "id": "S5R-002",
+            "number": "002/070",
+            "name": "ウツドン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039132_P_UTSUDON.jpg"
+        },
+        {
+            "id": "S5R-003",
+            "number": "003/070",
+            "name": "ウツボット",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039133_P_UTSUBOTTO.jpg"
+        },
+        {
+            "id": "S5R-004",
+            "number": "004/070",
+            "name": "コロトックV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039134_P_KOROTOKKUV.jpg"
+        },
+        {
+            "id": "S5R-005",
+            "number": "005/070",
+            "name": "チェリンボ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039135_P_CHIERINBO.jpg"
+        },
+        {
+            "id": "S5R-006",
+            "number": "006/070",
+            "name": "チェリム",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039136_P_CHIERIMU.jpg"
+        },
+        {
+            "id": "S5R-007",
+            "number": "007/070",
+            "name": "マスキッパ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039137_P_MASUKIPPA.jpg"
+        },
+        {
+            "id": "S5R-008",
+            "number": "008/070",
+            "name": "カリキリ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039138_P_KARIKIRI.jpg"
+        },
+        {
+            "id": "S5R-009",
+            "number": "009/070",
+            "name": "ラランテス",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039139_P_RARANTESU.jpg"
+        },
+        {
+            "id": "S5R-010",
+            "number": "010/070",
+            "name": "カプ・ブルル",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039140_P_KAPUBURURU.jpg"
+        },
+        {
+            "id": "S5R-011",
+            "number": "011/070",
+            "name": "サッチムシ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039141_P_SACCHIMUSHI.jpg"
+        },
+        {
+            "id": "S5R-012",
+            "number": "012/070",
+            "name": "ビクティニV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039142_P_BIKUTEINIV.jpg"
+        },
+        {
+            "id": "S5R-013",
+            "number": "013/070",
+            "name": "ビクティニVMAX",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039143_P_BIKUTEINIVMAX.jpg"
+        },
+        {
+            "id": "S5R-014",
+            "number": "014/070",
+            "name": "クイタラン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039144_P_KUITARAN.jpg"
+        },
+        {
+            "id": "S5R-015",
+            "number": "015/070",
+            "name": "ヤクデ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039145_P_YAKUDE.jpg"
+        },
+        {
+            "id": "S5R-016",
+            "number": "016/070",
+            "name": "マルヤクデ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039146_P_MARUYAKUDE.jpg"
+        },
+        {
+            "id": "S5R-017",
+            "number": "017/070",
+            "name": "タッツー",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039147_P_TATTSU.jpg"
+        },
+        {
+            "id": "S5R-018",
+            "number": "018/070",
+            "name": "シードラ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039148_P_SHIDORA.jpg"
+        },
+        {
+            "id": "S5R-019",
+            "number": "019/070",
+            "name": "キングドラ",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039149_P_KINGUDORA.jpg"
+        },
+        {
+            "id": "S5R-020",
+            "number": "020/070",
+            "name": "ガラル バリヤード",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039150_P_GARARUBARIYADO.jpg"
+        },
+        {
+            "id": "S5R-021",
+            "number": "021/070",
+            "name": "ガラル バリコオル",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039151_P_GARARUBARIKOORU.jpg"
+        },
+        {
+            "id": "S5R-022",
+            "number": "022/070",
+            "name": "テッポウオ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039152_P_TEPPOUO.jpg"
+        },
+        {
+            "id": "S5R-023",
+            "number": "023/070",
+            "name": "オクタン",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039153_P_OKUTAN.jpg"
+        },
+        {
+            "id": "S5R-024",
+            "number": "024/070",
+            "name": "ヘイガニ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039154_P_HEIGANI.jpg"
+        },
+        {
+            "id": "S5R-025",
+            "number": "025/070",
+            "name": "シザリガー",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039155_P_SHIZARIGA.jpg"
+        },
+        {
+            "id": "S5R-026",
+            "number": "026/070",
+            "name": "エンペルトV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039156_P_ENPERUTOV.jpg"
+        },
+        {
+            "id": "S5R-027",
+            "number": "027/070",
+            "name": "プルリル",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039157_P_PURURIRU.jpg"
+        },
+        {
+            "id": "S5R-028",
+            "number": "028/070",
+            "name": "ブルンゲル",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039158_P_BURUNGERU.jpg"
+        },
+        {
+            "id": "S5R-029",
+            "number": "029/070",
+            "name": "ハギギシリ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039159_P_HAGIGISHIRI.jpg"
+        },
+        {
+            "id": "S5R-030",
+            "number": "030/070",
+            "name": "コリンク",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039160_P_KORINKU.jpg"
+        },
+        {
+            "id": "S5R-031",
+            "number": "031/070",
+            "name": "ルクシオ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039161_P_RUKUSHIO.jpg"
+        },
+        {
+            "id": "S5R-032",
+            "number": "032/070",
+            "name": "レントラー",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039162_P_RENTORA.jpg"
+        },
+        {
+            "id": "S5R-033",
+            "number": "033/070",
+            "name": "パチリス",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039163_P_PACHIRISU.jpg"
+        },
+        {
+            "id": "S5R-034",
+            "number": "034/070",
+            "name": "ヤジロン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039164_P_YAJIRON.jpg"
+        },
+        {
+            "id": "S5R-035",
+            "number": "035/070",
+            "name": "ネンドール",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039165_P_NENDORU.jpg"
+        },
+        {
+            "id": "S5R-036",
+            "number": "036/070",
+            "name": "ネクロズマV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039166_P_NEKUROZUMAV.jpg"
+        },
+        {
+            "id": "S5R-037",
+            "number": "037/070",
+            "name": "レドームシ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039167_P_REDOMUSHI.jpg"
+        },
+        {
+            "id": "S5R-038",
+            "number": "038/070",
+            "name": "イオルブ",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039168_P_IORUBU.jpg"
+        },
+        {
+            "id": "S5R-039",
+            "number": "039/070",
+            "name": "イワーク",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039169_P_IWAKU.jpg"
+        },
+        {
+            "id": "S5R-040",
+            "number": "040/070",
+            "name": "カラカラ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039170_P_KARAKARA.jpg"
+        },
+        {
+            "id": "S5R-041",
+            "number": "041/070",
+            "name": "ガラガラ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039171_P_GARAGARA.jpg"
+        },
+        {
+            "id": "S5R-042",
+            "number": "042/070",
+            "name": "ドッコラー",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039172_P_DOKKORA.jpg"
+        },
+        {
+            "id": "S5R-043",
+            "number": "043/070",
+            "name": "ドテッコツ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039173_P_DOTEKKOTSU.jpg"
+        },
+        {
+            "id": "S5R-044",
+            "number": "044/070",
+            "name": "ローブシン",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039174_P_ROBUSHIN.jpg"
+        },
+        {
+            "id": "S5R-045",
+            "number": "045/070",
+            "name": "コジョフー",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039175_P_KOJOFU.jpg"
+        },
+        {
+            "id": "S5R-046",
+            "number": "046/070",
+            "name": "コジョンド",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039176_P_KOJONDO.jpg"
+        },
+        {
+            "id": "S5R-047",
+            "number": "047/070",
+            "name": "スナヘビ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039177_P_SUNAHEBI.jpg"
+        },
+        {
+            "id": "S5R-048",
+            "number": "048/070",
+            "name": "サダイジャ",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039178_P_SADAIJA.jpg"
+        },
+        {
+            "id": "S5R-049",
+            "number": "049/070",
+            "name": "タイレーツ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039179_P_TAIRETSU.jpg"
+        },
+        {
+            "id": "S5R-050",
+            "number": "050/070",
+            "name": "れんげきウーラオスV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039180_P_RENGEKIURAOSUV.jpg"
+        },
+        {
+            "id": "S5R-051",
+            "number": "051/070",
+            "name": "れんげきウーラオスVMAX",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039181_P_RENGEKIURAOSUVMAX.jpg"
+        },
+        {
+            "id": "S5R-052",
+            "number": "052/070",
+            "name": "ハガネール",
+            "rarity": "R",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039182_P_HAGANERU.jpg"
+        },
+        {
+            "id": "S5R-053",
+            "number": "053/070",
+            "name": "コマタナ",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039183_P_KOMATANA.jpg"
+        },
+        {
+            "id": "S5R-054",
+            "number": "054/070",
+            "name": "キリキザン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039184_P_KIRIKIZAN.jpg"
+        },
+        {
+            "id": "S5R-055",
+            "number": "055/070",
+            "name": "アーマーガアV",
+            "rarity": "RR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039185_P_AMAGAAV.jpg"
+        },
+        {
+            "id": "S5R-056",
+            "number": "056/070",
+            "name": "アーマーガアVMAX",
+            "rarity": "-",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039186_P_AMAGAAVMAX.jpg"
+        },
+        {
+            "id": "S5R-057",
+            "number": "057/070",
+            "name": "ニャルマー",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039187_P_NYARUMA.jpg"
+        },
+        {
+            "id": "S5R-058",
+            "number": "058/070",
+            "name": "ブニャット",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039188_P_BUNYATTO.jpg"
+        },
+        {
+            "id": "S5R-059",
+            "number": "059/070",
+            "name": "バッフロン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039189_P_BAFFURON.jpg"
+        },
+        {
+            "id": "S5R-060",
+            "number": "060/070",
+            "name": "イエッサン",
+            "rarity": "C",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039190_P_IESSAN.jpg"
+        },
+        {
+            "id": "S5R-061",
+            "number": "061/070",
+            "name": "うねりの扇",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039191_T_UNERINOOUGI.jpg"
+        },
+        {
+            "id": "S5R-062",
+            "number": "062/070",
+            "name": "エネルギーリサイクル",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039192_T_ENERUGIRISAIKURU.jpg"
+        },
+        {
+            "id": "S5R-063",
+            "number": "063/070",
+            "name": "レベルボール",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039193_T_REBERUBORU.jpg"
+        },
+        {
+            "id": "S5R-064",
+            "number": "064/070",
+            "name": "ツールジャマー",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039194_T_TSURUJAMA.jpg"
+        },
+        {
+            "id": "S5R-065",
+            "number": "065/070",
+            "name": "れんげきの巻物 渦の巻",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039195_T_RENGEKINOMAKIMONOUZUNOKAN.jpg"
+        },
+        {
+            "id": "S5R-066",
+            "number": "066/070",
+            "name": "コルニの気合い",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039196_T_KORUNINOKIAI.jpg"
+        },
+        {
+            "id": "S5R-067",
+            "number": "067/070",
+            "name": "マスタード れんげきのかた",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039197_T_MASUTADORENGEKINOKATA.jpg"
+        },
+        {
+            "id": "S5R-068",
+            "number": "068/070",
+            "name": "モミ",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039198_T_MOMI.jpg"
+        },
+        {
+            "id": "S5R-069",
+            "number": "069/070",
+            "name": "みずの塔",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039199_T_MIZUNOTOU.jpg"
+        },
+        {
+            "id": "S5R-070",
+            "number": "070/070",
+            "name": "れんげきエネルギー",
+            "rarity": "U",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039200_E_RENGEKIENERUGI.jpg"
+        },
+        {
+            "id": "S5R-071",
+            "number": "071/070",
+            "name": "コロトックV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039247_P_KOROTOKKUV.jpg"
+        },
+        {
+            "id": "S5R-072",
+            "number": "072/070",
+            "name": "ビクティニV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039248_P_BIKUTEINIV.jpg"
+        },
+        {
+            "id": "S5R-073",
+            "number": "073/070",
+            "name": "エンペルトV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039249_P_ENPERUTOV.jpg"
+        },
+        {
+            "id": "S5R-074",
+            "number": "074/070",
+            "name": "エンペルトV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039250_P_ENPERUTOV.jpg"
+        },
+        {
+            "id": "S5R-075",
+            "number": "075/070",
+            "name": "ネクロズマV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039251_P_NEKUROZUMAV.jpg"
+        },
+        {
+            "id": "S5R-076",
+            "number": "076/070",
+            "name": "れんげきウーラオスV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039252_P_RENGEKIURAOSUV.jpg"
+        },
+        {
+            "id": "S5R-077",
+            "number": "077/070",
+            "name": "れんげきウーラオスV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039253_P_RENGEKIURAOSUV.jpg"
+        },
+        {
+            "id": "S5R-078",
+            "number": "078/070",
+            "name": "アーマーガアV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039254_P_AMAGAAV.jpg"
+        },
+        {
+            "id": "S5R-079",
+            "number": "079/070",
+            "name": "コルニの気合い",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039255_T_KORUNINOKIAI.jpg"
+        },
+        {
+            "id": "S5R-080",
+            "number": "080/070",
+            "name": "マスタード れんげきのかた",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039256_T_MASUTADORENGEKINOKATA.jpg"
+        },
+        {
+            "id": "S5R-081",
+            "number": "081/070",
+            "name": "モミ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S5R/039511_T_MOMI.jpg"
+        }
+    ]
+}

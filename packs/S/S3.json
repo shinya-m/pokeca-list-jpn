@@ -1,0 +1,75 @@
+{
+    "packId": "S3",
+    "cards": [
+        {
+            "id": "S3-101",
+            "number": "101/100",
+            "name": "ヘルガーV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038483_P_HERUGAV.jpg"
+        },
+        {
+            "id": "S3-102",
+            "number": "102/100",
+            "name": "カジリガメV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038484_P_KAJIRIGAMEV.jpg"
+        },
+        {
+            "id": "S3-103",
+            "number": "103/100",
+            "name": "ガラル サニゴーンV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038485_P_GARARUSANIGONV.jpg"
+        },
+        {
+            "id": "S3-104",
+            "number": "104/100",
+            "name": "ドサイドンV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038486_P_DOSAIDONV.jpg"
+        },
+        {
+            "id": "S3-105",
+            "number": "105/100",
+            "name": "クロバットV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038487_P_KUROBATTOV.jpg"
+        },
+        {
+            "id": "S3-106",
+            "number": "106/100",
+            "name": "ムゲンダイナV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038488_P_MUGENDAINAV.jpg"
+        },
+        {
+            "id": "S3-107",
+            "number": "107/100",
+            "name": "ハッサムV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038489_P_HASSAMUV.jpg"
+        },
+        {
+            "id": "S3-108",
+            "number": "108/100",
+            "name": "ボーマンダV",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038490_P_BOMANDAV.jpg"
+        },
+        {
+            "id": "S3-109",
+            "number": "109/100",
+            "name": "ネズ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038491_T_NEZU.jpg"
+        },
+        {
+            "id": "S3-110",
+            "number": "110/100",
+            "name": "ローズ",
+            "rarity": "SR",
+            "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/S3/038492_T_ROZU.jpg"
+        }
+    ]
+}
