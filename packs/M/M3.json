@@ -560,6 +560,265 @@
             "name": "ロック闘エネルギー",
             "rarity": "R",
             "imageUrl": "https://www.pokemon-card.com/assets/images/card_images/large/M3/049713_E_ROKKUTOUENERUGI.jpg"
+        },
+        {
+            "id": "M3-081",
+            "number": "081/080",
+            "name": "コフーライ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10081.jpg"
+        },
+        {
+            "id": "M3-082",
+            "number": "082/080",
+            "name": "モクロー",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10082.jpg"
+        },
+        {
+            "id": "M3-083",
+            "number": "083/080",
+            "name": "ファイアロー",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10083.jpg"
+        },
+        {
+            "id": "M3-084",
+            "number": "084/080",
+            "name": "アマルルガ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10084.jpg"
+        },
+        {
+            "id": "M3-085",
+            "number": "085/080",
+            "name": "デデンネ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10085.jpg"
+        },
+        {
+            "id": "M3-086",
+            "number": "086/080",
+            "name": "ピッピ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10086.jpg"
+        },
+        {
+            "id": "M3-087",
+            "number": "087/080",
+            "name": "ニャスパー",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10087.jpg"
+        },
+        {
+            "id": "M3-088",
+            "number": "088/080",
+            "name": "ダイノーズ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10088.jpg"
+        },
+        {
+            "id": "M3-089",
+            "number": "089/080",
+            "name": "チゴラス",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10089.jpg"
+        },
+        {
+            "id": "M3-090",
+            "number": "090/080",
+            "name": "ドラピオン",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10090.jpg"
+        },
+        {
+            "id": "M3-091",
+            "number": "091/080",
+            "name": "ニダンギル",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10091.jpg"
+        },
+        {
+            "id": "M3-092",
+            "number": "092/080",
+            "name": "ラッタ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10092.jpg"
+        },
+        {
+            "id": "M3-093",
+            "number": "093/080",
+            "name": "ジュナイパーex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10093.jpg"
+        },
+        {
+            "id": "M3-094",
+            "number": "094/080",
+            "name": "エンニュートex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10094.jpg"
+        },
+        {
+            "id": "M3-095",
+            "number": "095/080",
+            "name": "メガスターミーex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10095.jpg"
+        },
+        {
+            "id": "M3-096",
+            "number": "096/080",
+            "name": "メガピクシーex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10096.jpg"
+        },
+        {
+            "id": "M3-097",
+            "number": "097/080",
+            "name": "メガジガルデex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10097.jpg"
+        },
+        {
+            "id": "M3-098",
+            "number": "098/080",
+            "name": "イベルタルex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10098.jpg"
+        },
+        {
+            "id": "M3-099",
+            "number": "099/080",
+            "name": "メガエアームドex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10099.jpg"
+        },
+        {
+            "id": "M3-100",
+            "number": "100/080",
+            "name": "ニャースex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10100.jpg"
+        },
+        {
+            "id": "M3-101",
+            "number": "101/080",
+            "name": "エネルギーリサイクル",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10101.jpg"
+        },
+        {
+            "id": "M3-102",
+            "number": "102/080",
+            "name": "せいなるはい",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10102.jpg"
+        },
+        {
+            "id": "M3-103",
+            "number": "103/080",
+            "name": "ポケパッド",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10103.jpg"
+        },
+        {
+            "id": "M3-104",
+            "number": "104/080",
+            "name": "ワンダーパッチ",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10104.jpg"
+        },
+        {
+            "id": "M3-105",
+            "number": "105/080",
+            "name": "タラゴン",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10105.jpg"
+        },
+        {
+            "id": "M3-106",
+            "number": "106/080",
+            "name": "ピュール",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10106.jpg"
+        },
+        {
+            "id": "M3-107",
+            "number": "107/080",
+            "name": "メイのはげまし",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10107.jpg"
+        },
+        {
+            "id": "M3-108",
+            "number": "108/080",
+            "name": "ユカリ",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10108.jpg"
+        },
+        {
+            "id": "M3-109",
+            "number": "109/080",
+            "name": "活力の森",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10109.jpg"
+        },
+        {
+            "id": "M3-110",
+            "number": "110/080",
+            "name": "ミアレシティ",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10110.jpg"
+        },
+        {
+            "id": "M3-111",
+            "number": "111/080",
+            "name": "メガスターミーex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10111.jpg"
+        },
+        {
+            "id": "M3-112",
+            "number": "112/080",
+            "name": "メガピクシーex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10112.jpg"
+        },
+        {
+            "id": "M3-113",
+            "number": "113/080",
+            "name": "メガジガルデex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10113.jpg"
+        },
+        {
+            "id": "M3-114",
+            "number": "114/080",
+            "name": "ニャースex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10114.jpg"
+        },
+        {
+            "id": "M3-115",
+            "number": "115/080",
+            "name": "メイのはげまし",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10115.jpg"
+        },
+        {
+            "id": "M3-116",
+            "number": "116/080",
+            "name": "ユカリ",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10116.jpg"
+        },
+        {
+            "id": "M3-117",
+            "number": "117/080",
+            "name": "メガジガルデex",
+            "rarity": "MUR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/100_140/m03/10117.jpg"
         }
     ]
 }
