@@ -887,6 +887,15 @@
             "updatedAt": "2026-01-23",
             "coverImageUrl": "https://www.pokemon-card.com/products/2025/images/m3.jpg",
             "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M3.json"
+        },
+        {
+            "id": "M4",
+            "seriesId": "M",
+            "name": "ニンジャスピナー",
+            "totalCards": 120,
+            "updatedAt": "2026-03-13",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2026/images/m4pkg.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M4.json"
         }
     ]
 }
