@@ -896,6 +896,15 @@
             "updatedAt": "2026-03-13",
             "coverImageUrl": "https://www.pokemon-card.com/products/2026/images/m4pkg.jpg",
             "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M4.json"
+        },
+        {
+            "id": "M5",
+            "seriesId": "M",
+            "name": "アビスアイ",
+            "totalCards": 118,
+            "updatedAt": "2026-05-22",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2026/images/abisueye.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M5.json"
         }
     ]
 }

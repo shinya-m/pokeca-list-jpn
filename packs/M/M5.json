@@ -1,0 +1,831 @@
+{
+    "packId": "M5",
+    "cards": [
+        {
+            "id": "M5-001",
+            "number": "001/081",
+            "name": "トロピウス",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10001.jpg"
+        },
+        {
+            "id": "M5-002",
+            "number": "002/081",
+            "name": "アゴジムシ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10002.jpg"
+        },
+        {
+            "id": "M5-003",
+            "number": "003/081",
+            "name": "カリキリ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10003.jpg"
+        },
+        {
+            "id": "M5-004",
+            "number": "004/081",
+            "name": "ラランテスex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10004.jpg"
+        },
+        {
+            "id": "M5-005",
+            "number": "005/081",
+            "name": "チャデス",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10005.jpg"
+        },
+        {
+            "id": "M5-006",
+            "number": "006/081",
+            "name": "ヤバソチャ",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10006.jpg"
+        },
+        {
+            "id": "M5-007",
+            "number": "007/081",
+            "name": "ヒードラン",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10007.jpg"
+        },
+        {
+            "id": "M5-008",
+            "number": "008/081",
+            "name": "ヤクデ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10008.jpg"
+        },
+        {
+            "id": "M5-009",
+            "number": "009/081",
+            "name": "マルヤクデ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10009.jpg"
+        },
+        {
+            "id": "M5-010",
+            "number": "010/081",
+            "name": "カルボウ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10010.jpg"
+        },
+        {
+            "id": "M5-011",
+            "number": "011/081",
+            "name": "グレンアルマ",
+            "rarity": "R",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10011.jpg"
+        },
+        {
+            "id": "M5-012",
+            "number": "012/081",
+            "name": "トサキント",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10012.jpg"
+        },
+        {
+            "id": "M5-013",
+            "number": "013/081",
+            "name": "アズマオウ",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10013.jpg"
+        },
+        {
+            "id": "M5-014",
+            "number": "014/081",
+            "name": "ホエルコ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10014.jpg"
+        },
+        {
+            "id": "M5-015",
+            "number": "015/081",
+            "name": "ホエルオーex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10015.jpg"
+        },
+        {
+            "id": "M5-016",
+            "number": "016/081",
+            "name": "ジーランス",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10016.jpg"
+        },
+        {
+            "id": "M5-017",
+            "number": "017/081",
+            "name": "アシマリ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10017.jpg"
+        },
+        {
+            "id": "M5-018",
+            "number": "018/081",
+            "name": "オシャマリ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10018.jpg"
+        },
+        {
+            "id": "M5-019",
+            "number": "019/081",
+            "name": "アシレーヌ",
+            "rarity": "R",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10019.jpg"
+        },
+        {
+            "id": "M5-020",
+            "number": "020/081",
+            "name": "ナミイルカ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10020.jpg"
+        },
+        {
+            "id": "M5-021",
+            "number": "021/081",
+            "name": "イルカマン",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10021.jpg"
+        },
+        {
+            "id": "M5-022",
+            "number": "022/081",
+            "name": "ラクライ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10022.jpg"
+        },
+        {
+            "id": "M5-023",
+            "number": "023/081",
+            "name": "ライボルト",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10023.jpg"
+        },
+        {
+            "id": "M5-024",
+            "number": "024/081",
+            "name": "デンヂムシ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10024.jpg"
+        },
+        {
+            "id": "M5-025",
+            "number": "025/081",
+            "name": "クワガノン",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10025.jpg"
+        },
+        {
+            "id": "M5-026",
+            "number": "026/081",
+            "name": "メガゼラオラex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10026.jpg"
+        },
+        {
+            "id": "M5-027",
+            "number": "027/081",
+            "name": "ミライドン",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10027.jpg"
+        },
+        {
+            "id": "M5-028",
+            "number": "028/081",
+            "name": "ヤドン",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10028.jpg"
+        },
+        {
+            "id": "M5-029",
+            "number": "029/081",
+            "name": "ヤドラン",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10029.jpg"
+        },
+        {
+            "id": "M5-030",
+            "number": "030/081",
+            "name": "ルージュラ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10030.jpg"
+        },
+        {
+            "id": "M5-031",
+            "number": "031/081",
+            "name": "カゲボウズ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10031.jpg"
+        },
+        {
+            "id": "M5-032",
+            "number": "032/081",
+            "name": "ジュペッタ",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10032.jpg"
+        },
+        {
+            "id": "M5-033",
+            "number": "033/081",
+            "name": "ミカルゲ",
+            "rarity": "R",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10033.jpg"
+        },
+        {
+            "id": "M5-034",
+            "number": "034/081",
+            "name": "ヒトモシ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10034.jpg"
+        },
+        {
+            "id": "M5-035",
+            "number": "035/081",
+            "name": "ランプラー",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10035.jpg"
+        },
+        {
+            "id": "M5-036",
+            "number": "036/081",
+            "name": "メガシャンデラex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10036.jpg"
+        },
+        {
+            "id": "M5-037",
+            "number": "037/081",
+            "name": "ダダリン",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10037.jpg"
+        },
+        {
+            "id": "M5-038",
+            "number": "038/081",
+            "name": "マーシャドー",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10038.jpg"
+        },
+        {
+            "id": "M5-039",
+            "number": "039/081",
+            "name": "コノヨザル",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10039.jpg"
+        },
+        {
+            "id": "M5-040",
+            "number": "040/081",
+            "name": "マンキー",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10040.jpg"
+        },
+        {
+            "id": "M5-041",
+            "number": "041/081",
+            "name": "オコリザル",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10041.jpg"
+        },
+        {
+            "id": "M5-042",
+            "number": "042/081",
+            "name": "ズガイドス",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10042.jpg"
+        },
+        {
+            "id": "M5-043",
+            "number": "043/081",
+            "name": "ラムパルドex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10043.jpg"
+        },
+        {
+            "id": "M5-044",
+            "number": "044/081",
+            "name": "モグリュー",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10044.jpg"
+        },
+        {
+            "id": "M5-045",
+            "number": "045/081",
+            "name": "コライドン",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10045.jpg"
+        },
+        {
+            "id": "M5-046",
+            "number": "046/081",
+            "name": "メガダークライex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10046.jpg"
+        },
+        {
+            "id": "M5-047",
+            "number": "047/081",
+            "name": "バルチャイ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10047.jpg"
+        },
+        {
+            "id": "M5-048",
+            "number": "048/081",
+            "name": "バルジーナ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10048.jpg"
+        },
+        {
+            "id": "M5-049",
+            "number": "049/081",
+            "name": "マーイーカ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10049.jpg"
+        },
+        {
+            "id": "M5-050",
+            "number": "050/081",
+            "name": "カラマネロ",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10050.jpg"
+        },
+        {
+            "id": "M5-051",
+            "number": "051/081",
+            "name": "クスネ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10051.jpg"
+        },
+        {
+            "id": "M5-052",
+            "number": "052/081",
+            "name": "フォクスライ",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10052.jpg"
+        },
+        {
+            "id": "M5-053",
+            "number": "053/081",
+            "name": "モルペコex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10053.jpg"
+        },
+        {
+            "id": "M5-054",
+            "number": "054/081",
+            "name": "ザルード",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10054.jpg"
+        },
+        {
+            "id": "M5-055",
+            "number": "055/081",
+            "name": "オラチフ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10055.jpg"
+        },
+        {
+            "id": "M5-056",
+            "number": "056/081",
+            "name": "マフィティフ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10056.jpg"
+        },
+        {
+            "id": "M5-057",
+            "number": "057/081",
+            "name": "イーユイ",
+            "rarity": "R",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10057.jpg"
+        },
+        {
+            "id": "M5-058",
+            "number": "058/081",
+            "name": "エアームド",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10058.jpg"
+        },
+        {
+            "id": "M5-059",
+            "number": "059/081",
+            "name": "タテトプス",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10059.jpg"
+        },
+        {
+            "id": "M5-060",
+            "number": "060/081",
+            "name": "トリデプス",
+            "rarity": "R",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10060.jpg"
+        },
+        {
+            "id": "M5-061",
+            "number": "061/081",
+            "name": "ドーミラー",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10061.jpg"
+        },
+        {
+            "id": "M5-062",
+            "number": "062/081",
+            "name": "ドータクン",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10062.jpg"
+        },
+        {
+            "id": "M5-063",
+            "number": "063/081",
+            "name": "メガドリュウズex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10063.jpg"
+        },
+        {
+            "id": "M5-064",
+            "number": "064/081",
+            "name": "ツツケラ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10064.jpg"
+        },
+        {
+            "id": "M5-065",
+            "number": "065/081",
+            "name": "ケララッパ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10065.jpg"
+        },
+        {
+            "id": "M5-066",
+            "number": "066/081",
+            "name": "ドデカバシ",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10066.jpg"
+        },
+        {
+            "id": "M5-067",
+            "number": "067/081",
+            "name": "タイプ:ヌル",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10067.jpg"
+        },
+        {
+            "id": "M5-068",
+            "number": "068/081",
+            "name": "シルヴァディ",
+            "rarity": "R",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10068.jpg"
+        },
+        {
+            "id": "M5-069",
+            "number": "069/081",
+            "name": "オトシドリ",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10069.jpg"
+        },
+        {
+            "id": "M5-070",
+            "number": "070/081",
+            "name": "ダークベル",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10070.jpg"
+        },
+        {
+            "id": "M5-071",
+            "number": "071/081",
+            "name": "古びたずがいの化石",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10071.jpg"
+        },
+        {
+            "id": "M5-072",
+            "number": "072/081",
+            "name": "古びたたての化石",
+            "rarity": "C",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10072.jpg"
+        },
+        {
+            "id": "M5-073",
+            "number": "073/081",
+            "name": "ごうかいボム",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10073.jpg"
+        },
+        {
+            "id": "M5-074",
+            "number": "074/081",
+            "name": "リトライバッジ",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10074.jpg"
+        },
+        {
+            "id": "M5-075",
+            "number": "075/081",
+            "name": "カスミの元気",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10075.jpg"
+        },
+        {
+            "id": "M5-076",
+            "number": "076/081",
+            "name": "グラジオの決戦",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10076.jpg"
+        },
+        {
+            "id": "M5-077",
+            "number": "077/081",
+            "name": "サビ組のしたっぱ",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10077.jpg"
+        },
+        {
+            "id": "M5-078",
+            "number": "078/081",
+            "name": "ムク",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10078.jpg"
+        },
+        {
+            "id": "M5-079",
+            "number": "079/081",
+            "name": "化石採掘場",
+            "rarity": "U",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10079.jpg"
+        },
+        {
+            "id": "M5-080",
+            "number": "080/081",
+            "name": "ボルト雷エネルギー",
+            "rarity": "R",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10080.jpg"
+        },
+        {
+            "id": "M5-081",
+            "number": "081/081",
+            "name": "シャドー悪エネルギー",
+            "rarity": "R",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10081.jpg"
+        },
+        {
+            "id": "M5-082",
+            "number": "082/081",
+            "name": "カリキリ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10082.jpg"
+        },
+        {
+            "id": "M5-083",
+            "number": "083/081",
+            "name": "グレンアルマ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10083.jpg"
+        },
+        {
+            "id": "M5-084",
+            "number": "084/081",
+            "name": "トサキント",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10084.jpg"
+        },
+        {
+            "id": "M5-085",
+            "number": "085/081",
+            "name": "アシレーヌ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10085.jpg"
+        },
+        {
+            "id": "M5-086",
+            "number": "086/081",
+            "name": "ライボルト",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10086.jpg"
+        },
+        {
+            "id": "M5-087",
+            "number": "087/081",
+            "name": "ヤドラン",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10087.jpg"
+        },
+        {
+            "id": "M5-088",
+            "number": "088/081",
+            "name": "ダダリン",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10088.jpg"
+        },
+        {
+            "id": "M5-089",
+            "number": "089/081",
+            "name": "フォクスライ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10089.jpg"
+        },
+        {
+            "id": "M5-090",
+            "number": "090/081",
+            "name": "ザルード",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10090.jpg"
+        },
+        {
+            "id": "M5-091",
+            "number": "091/081",
+            "name": "トリデプス",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10091.jpg"
+        },
+        {
+            "id": "M5-092",
+            "number": "092/081",
+            "name": "ドデカバシ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10092.jpg"
+        },
+        {
+            "id": "M5-093",
+            "number": "093/081",
+            "name": "シルヴァディ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10093.jpg"
+        },
+        {
+            "id": "M5-094",
+            "number": "094/081",
+            "name": "ラランテスex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10094.jpg"
+        },
+        {
+            "id": "M5-095",
+            "number": "095/081",
+            "name": "ホエルオーex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10095.jpg"
+        },
+        {
+            "id": "M5-096",
+            "number": "096/081",
+            "name": "メガゼラオラex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10096.jpg"
+        },
+        {
+            "id": "M5-097",
+            "number": "097/081",
+            "name": "メガシャンデラex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10097.jpg"
+        },
+        {
+            "id": "M5-098",
+            "number": "098/081",
+            "name": "ラムパルドex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10098.jpg"
+        },
+        {
+            "id": "M5-099",
+            "number": "099/081",
+            "name": "メガダークライex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10099.jpg"
+        },
+        {
+            "id": "M5-100",
+            "number": "100/081",
+            "name": "モルペコex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10100.jpg"
+        },
+        {
+            "id": "M5-101",
+            "number": "101/081",
+            "name": "メガドリュウズex",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10101.jpg"
+        },
+        {
+            "id": "M5-102",
+            "number": "102/081",
+            "name": "アイアンディフェンダー",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10102.jpg"
+        },
+        {
+            "id": "M5-103",
+            "number": "103/081",
+            "name": "エネルギーつけかえ",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10103.jpg"
+        },
+        {
+            "id": "M5-104",
+            "number": "104/081",
+            "name": "クラッシュハンマー",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10104.jpg"
+        },
+        {
+            "id": "M5-105",
+            "number": "105/081",
+            "name": "ダークベル",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10105.jpg"
+        },
+        {
+            "id": "M5-106",
+            "number": "106/081",
+            "name": "ごうかいボム",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10106.jpg"
+        },
+        {
+            "id": "M5-107",
+            "number": "107/081",
+            "name": "ブレイブバンクル",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10107.jpg"
+        },
+        {
+            "id": "M5-108",
+            "number": "108/081",
+            "name": "カスミの元気",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10108.jpg"
+        },
+        {
+            "id": "M5-109",
+            "number": "109/081",
+            "name": "グラジオの決戦",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10109.jpg"
+        },
+        {
+            "id": "M5-110",
+            "number": "110/081",
+            "name": "サビ組のしたっぱ",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10110.jpg"
+        },
+        {
+            "id": "M5-111",
+            "number": "111/081",
+            "name": "ムク",
+            "rarity": "SR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10111.jpg"
+        },
+        {
+            "id": "M5-112",
+            "number": "112/081",
+            "name": "メガゼラオラex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10112.jpg"
+        },
+        {
+            "id": "M5-113",
+            "number": "113/081",
+            "name": "メガシャンデラex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10113.jpg"
+        },
+        {
+            "id": "M5-114",
+            "number": "114/081",
+            "name": "メガダークライex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10114.jpg"
+        },
+        {
+            "id": "M5-115",
+            "number": "115/081",
+            "name": "モルペコex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10115.jpg"
+        },
+        {
+            "id": "M5-116",
+            "number": "116/081",
+            "name": "グラジオの決戦",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10116.jpg"
+        },
+        {
+            "id": "M5-117",
+            "number": "117/081",
+            "name": "ムク",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10117.jpg"
+        },
+        {
+            "id": "M5-118",
+            "number": "118/081",
+            "name": "メガダークライex",
+            "rarity": "MUR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m05/10118.jpg"
+        }
+    ]
+}
