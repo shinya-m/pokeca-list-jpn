@@ -1,0 +1,299 @@
+{
+    "packId": "M6a",
+    "cards": [
+        {
+            "id": "M6a-009",
+            "number": "009/103",
+            "name": "ホゲータex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10009.jpg"
+        },
+        {
+            "id": "M6a-015",
+            "number": "015/103",
+            "name": "ゲッコウガex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10015.jpg"
+        },
+        {
+            "id": "M6a-047",
+            "number": "047/103",
+            "name": "ピカチュウex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10047.jpg"
+        },
+        {
+            "id": "M6a-048",
+            "number": "048/103",
+            "name": "ピカチュウex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10048.jpg"
+        },
+        {
+            "id": "M6a-055",
+            "number": "055/103",
+            "name": "ミュウツーex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10055.jpg"
+        },
+        {
+            "id": "M6a-057",
+            "number": "057/103",
+            "name": "ミュウex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10057.jpg"
+        },
+        {
+            "id": "M6a-059",
+            "number": "059/103",
+            "name": "ニンフィアex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10059.jpg"
+        },
+        {
+            "id": "M6a-076",
+            "number": "076/103",
+            "name": "ゲンガーex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10076.jpg"
+        },
+        {
+            "id": "M6a-081",
+            "number": "081/103",
+            "name": "ジラーチex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10081.jpg"
+        },
+        {
+            "id": "M6a-088",
+            "number": "088/103",
+            "name": "ボーマンダex",
+            "rarity": "RR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10088.jpg"
+        },
+        {
+            "id": "M6a-104",
+            "number": "104/103",
+            "name": "アローラナッシー",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10104.jpg"
+        },
+        {
+            "id": "M6a-105",
+            "number": "105/103",
+            "name": "ファイヤー",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10105.jpg"
+        },
+        {
+            "id": "M6a-106",
+            "number": "106/103",
+            "name": "ラプラス",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10106.jpg"
+        },
+        {
+            "id": "M6a-107",
+            "number": "107/103",
+            "name": "フリーザー",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10107.jpg"
+        },
+        {
+            "id": "M6a-108",
+            "number": "108/103",
+            "name": "サンダー",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10108.jpg"
+        },
+        {
+            "id": "M6a-109",
+            "number": "109/103",
+            "name": "ストリンダー",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10109.jpg"
+        },
+        {
+            "id": "M6a-110",
+            "number": "110/103",
+            "name": "モルペコ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10110.jpg"
+        },
+        {
+            "id": "M6a-111",
+            "number": "111/103",
+            "name": "フワンテ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10111.jpg"
+        },
+        {
+            "id": "M6a-112",
+            "number": "112/103",
+            "name": "シャンデラ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10112.jpg"
+        },
+        {
+            "id": "M6a-113",
+            "number": "113/103",
+            "name": "ルガルガン",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10113.jpg"
+        },
+        {
+            "id": "M6a-114",
+            "number": "114/103",
+            "name": "ニドリーナ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10114.jpg"
+        },
+        {
+            "id": "M6a-115",
+            "number": "115/103",
+            "name": "アローラニャース",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10115.jpg"
+        },
+        {
+            "id": "M6a-116",
+            "number": "116/103",
+            "name": "ズルッグ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10116.jpg"
+        },
+        {
+            "id": "M6a-117",
+            "number": "117/103",
+            "name": "ガラルニャース",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10117.jpg"
+        },
+        {
+            "id": "M6a-118",
+            "number": "118/103",
+            "name": "サーフゴー",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10118.jpg"
+        },
+        {
+            "id": "M6a-119",
+            "number": "119/103",
+            "name": "ジャラランガ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10119.jpg"
+        },
+        {
+            "id": "M6a-120",
+            "number": "120/103",
+            "name": "ニャース",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10120.jpg"
+        },
+        {
+            "id": "M6a-121",
+            "number": "121/103",
+            "name": "メタモン",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10121.jpg"
+        },
+        {
+            "id": "M6a-122",
+            "number": "122/103",
+            "name": "ヒスイゾロア",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10122.jpg"
+        },
+        {
+            "id": "M6a-123",
+            "number": "123/103",
+            "name": "イッカネズミ",
+            "rarity": "AR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10123.jpg"
+        },
+        {
+            "id": "M6a-124",
+            "number": "124/103",
+            "name": "ホゲータex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10124.jpg"
+        },
+        {
+            "id": "M6a-125",
+            "number": "125/103",
+            "name": "ゲッコウガex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10125.jpg"
+        },
+        {
+            "id": "M6a-126",
+            "number": "126/103",
+            "name": "ピカチュウex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10126.jpg"
+        },
+        {
+            "id": "M6a-127",
+            "number": "127/103",
+            "name": "ピカチュウex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10127.jpg"
+        },
+        {
+            "id": "M6a-128",
+            "number": "128/103",
+            "name": "ミュウツーex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10128.jpg"
+        },
+        {
+            "id": "M6a-129",
+            "number": "129/103",
+            "name": "ミュウex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10129.jpg"
+        },
+        {
+            "id": "M6a-130",
+            "number": "130/103",
+            "name": "ニンフィアex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10130.jpg"
+        },
+        {
+            "id": "M6a-131",
+            "number": "131/103",
+            "name": "ゲンガーex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10131.jpg"
+        },
+        {
+            "id": "M6a-132",
+            "number": "132/103",
+            "name": "ジラーチex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10132.jpg"
+        },
+        {
+            "id": "M6a-133",
+            "number": "133/103",
+            "name": "ボーマンダex",
+            "rarity": "SAR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10133.jpg"
+        },
+        {
+            "id": "M6a-134",
+            "number": "134/103",
+            "name": "ミュウツーex",
+            "rarity": "FUR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10134.jpg"
+        },
+        {
+            "id": "M6a-135",
+            "number": "135/103",
+            "name": "ミュウex",
+            "rarity": "FUR",
+            "imageUrl": "https://card.yuyu-tei.jp/poc/front/m06a/10135.jpg"
+        }
+    ]
+}

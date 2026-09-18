@@ -914,6 +914,15 @@
             "updatedAt": "2026-07-31",
             "coverImageUrl": "https://www.pokemon-card.com/products/2026/images/stormemeralda.jpg",
             "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M6.json"
+        },
+        {
+            "id": "M6a",
+            "seriesId": "M",
+            "name": "30th CELEBRATION",
+            "totalCards": 135,
+            "updatedAt": "2026-09-16",
+            "coverImageUrl": "https://www.pokemon-card.com/products/2026/images/30th_celebration.jpg",
+            "jsonUrl": "https://shinya-m.github.io/pokeca-list-jpn/packs/M/M6a.json"
         }
     ]
 }
